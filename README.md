@@ -1,14 +1,14 @@
-### Hi there 👋
+### Hi there I'm Cardene 👋
 
 <div class="container github">
     <a href="https://github.com/cardene777">
         <img height="20" src="https://img.shields.io/github/followers/cardene777?label=follow&logo=github&style=flat" />
     </a>
     <a href="https://github.com/cardene777">
-        <img height="20" src="/github/languages/code-size/:user/:repo" />
+        <img height="20" src="https://img.shields.io/github/languages/code-size/:user/:repo" />
     </a>
     <a href="https://github.com/cardene777">
-        <img height="20" src="/github/directory-file-count/:user/:repo" />
+        <img height="20" src="https://img.shields.io/github/directory-file-count/:user/:repo" />
     </a>
 </div>
 
