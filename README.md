@@ -5,10 +5,10 @@
         <img height="20" src="https://img.shields.io/github/followers/cardene777?label=follow&logo=github&style=flat" />
     </a>
     <a href="https://github.com/cardene777">
-        <img height="20" src="https://img.shields.io/github/languages/code-size/:cardene777/:repo" />
+        <img height="20" src="https://img.shields.io/github/languages/code-size/:cardene777/:teque " />
     </a>
     <a href="https://github.com/cardene777">
-        <img height="20" src="https://img.shields.io/github/directory-file-count/:cardene777/:repo" />
+        <img height="20" src="https://img.shields.io/github/directory-file-count/:cardene777/:Revimo" />
     </a>
 </div>
 
@@ -21,5 +21,8 @@
     </a>
     <a href="http://qiita.com/cardene777">
       <img height="20" src="https://qiita-badge.apiapi.app/s/cardene777/contributions.svg" />
+    </a>
+    <a href="http://qiita.com/cardene777">
+      <img height="20" src="https://pypi/v/:comnamepy" />
     </a>
 </div>
