@@ -3,8 +3,6 @@
 ### GitHub
 [![cardene777's github stats](https://github-readme-stats.vercel.app/api?username=cardene777&hide=stars,contribs&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-<img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=Naruuuse&" alt="Naruuuse" />
-
 
 ### Qiita
 [![My Qiita posts](https://qiita-badge.apiapi.app/s/cardene/posts.svg)](http://qiita.com/cardene)
