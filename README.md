@@ -19,4 +19,4 @@
 </div>
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Naruuuse&title=Commit,PullRequest,Repositories,Issues)](https://github.com/Naruuuse "trophy")
+[![trophy](https://github-profile-trophy.vercel.app/?username=cardene777&title=Commit,PullRequest,Repositories,Issues)](https://github.com/Naruuuse "trophy")
