@@ -1,22 +1,15 @@
 ### Hi there I'm Cardene 👋
 
-<div class="container github">
-    <a href="https://github.com/cardene777">
-        <img height="20" src="https://img.shields.io/github/followers/cardene777?label=follow&logo=github&style=flat" />
-    </a>
-<!--     <a href="https://github.com/cardene777">
-        <img height="20" src="https://img.shields.io/badge/github/languages/code-size/:cardene777/:comnamepy" />
-    </a>
-    <a href="https://github.com/cardene777">
-        <img height="20" src="https://img.shields.io/badge/github/directory-file-count/:cardene777/:comnamepy" />
-    </a> -->
-</div>
+[![My Qiita posts](https://qiita-badge.apiapi.app/s/cardene/posts.svg)](http://qiita.com/cardene)
+[![My Qiita contributions](https://qiita-badge.apiapi.app/s/cardene/contributions.svg)](http://qiita.com/cardene)
+[![My Qiita followers](https://qiita-badge.apiapi.app/s/cardene/followers.svg)](http://qiita.com/cardene)
 
-<div class="container">
-    <a href="http://twitter.com/cardene777">
-        <img height="20" src="https://img.shields.io/twitter/follow/cardene777?label=Twitter&logo=twitter&style=flat" />
-    </a>
-</div>
+[![Twitter Followers](https://img.shields.io/twitter/follow/00x______?label=Twitter_followers&logo=twitter&style=flat)](https://twitter.com/00x______)
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=cardene777&title=Commit,PullRequest,Repositories,Issues)](https://github.com/Naruuuse "trophy")
+
+
+[![Twitter](https://img.shields.io/badge/-Twitter-white?&logo=Twitter)](https://twitter.com/cardene777)
+[![Qiita](https://img.shields.io/badge/-Qiita-F6F6F4?&logo=Qiita)](https://qiita.com/cardene)
+[![Zenn](https://img.shields.io/badge/-Zenn-3EA8FF)](https://zenn.dev/heku)
