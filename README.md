@@ -9,7 +9,7 @@
 [![My Qiita followers](https://qiita-badge.apiapi.app/s/cardene/followers.svg)](http://qiita.com/cardene)
 
 ### SNS
-[![Twitter Followers](https://img.shields.io/twitter/follow/cardene777?label=Twitter_followers&logo=twitter&style=flat)](https://twitter.com/00x______)
+[![Twitter Followers](https://img.shields.io/twitter/follow/cardene777?label=Twitter_followers&logo=twitter&style=flat)](https://twitter.com/cardene777)
 
 ### trophy
 [![trophy](https://github-profile-trophy.vercel.app/?username=cardene777&title=Commit,PullRequest,Repositories,Issues)](https://github.com/cardene777 "trophy")
