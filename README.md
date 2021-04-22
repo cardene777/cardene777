@@ -8,6 +8,10 @@
 [![My Qiita contributions](https://qiita-badge.apiapi.app/s/cardene/contributions.svg)](http://qiita.com/cardene)
 [![My Qiita followers](https://qiita-badge.apiapi.app/s/cardene/followers.svg)](http://qiita.com/cardene)
 
+### Zenn
+![](https://zenn-badge.herokuapp.com/s/かるでね/likes?style=plastic)
+
+
 ### SNS
 [![Twitter Followers](https://img.shields.io/twitter/follow/cardene777?label=Twitter_followers&logo=twitter&style=flat)](https://twitter.com/cardene777)
 
