@@ -9,7 +9,7 @@
 [![My Qiita followers](https://qiita-badge.apiapi.app/s/cardene/followers.svg)](http://qiita.com/cardene)
 
 ### Zenn
-![](https://zenn-badge.herokuapp.com/s/かるでね/likes?style=plastic)
+![](https://zenn-badge.herokuapp.com/s/heku/likes?style=plastic)
 
 
 ### SNS
