@@ -10,6 +10,7 @@
 
 ### Zenn
 ![](https://zenn-badge.herokuapp.com/s/heku/likes?style=plastic)
+![](https://zenn-badge.herokuapp.com/s/heku/followers?style=plastic)
 
 
 ### SNS
