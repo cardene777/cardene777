@@ -25,6 +25,10 @@
 [![Qiita](https://img.shields.io/badge/-Qiita-F6F6F4?&logo=Qiita)](https://qiita.com/cardene)
 [![Zenn](https://img.shields.io/badge/-Zenn-3EA8FF)](https://zenn.dev/heku)
 
+### chart
+
+[![github-chart](https://github-chart.vercel.app/api?user=cardene777)](https://github.com/rokumura7/github-chart)
+
 
 ### GitHub
 [![](https://raw.githubusercontent.com/cardene777/cardene777/main/profile-summary-card-output/solarized_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
