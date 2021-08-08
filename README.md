@@ -14,7 +14,7 @@
 
 
 #  🕊 Twitter
-![Twitter Followers](https://img.shields.io/twitter/follow/cardene777?label=Twitter_followers&logo=twitter&style=flat)](https://twitter.com/cardene777)
+![Twitter Followers](https://img.shields.io/twitter/follow/cardene777?label=Twitter_followers&logo=twitter&style=flat)(https://twitter.com/cardene777)
 
 
 # 🏆 GitHub trophy
