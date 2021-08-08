@@ -17,7 +17,8 @@
 [![Twitter Followers](https://img.shields.io/twitter/follow/cardene777?label=Twitter_followers&logo=twitter&style=flat)](https://twitter.com/cardene777)
 
 ### trophy
-[![trophy](https://github-profile-trophy.vercel.app/?username=cardene777&title=Commit,PullRequest,Repositories,Issues)](https://github.com/cardene777 "trophy")
+[![trophy](https://github-profile-trophy.vercel.app/?username=cardene777&theme=gruvbox)
+
 
 ### comtact me 
 
