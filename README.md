@@ -1,7 +1,8 @@
 # Hi there I'm Cardene 👋
 
-### GitHub
-[![cardene777's github stats](https://github-readme-stats.vercel.app/api?username=cardene777&hide=stars,contribs&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+### 🦔 GitHub Stats Card
+![cardene777's GitHub stats](https://github-readme-stats.vercel.app/api?username=cardene777&show_icons=true&theme=gruvbox)
+
 
 # Qiita
 [![My Qiita posts](https://qiita-badge.apiapi.app/s/cardene/posts.svg)](http://qiita.com/cardene)
