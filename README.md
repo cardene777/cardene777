@@ -1,6 +1,6 @@
 # Hi there I'm Cardene 👋
 
-### 🦔 GitHub Stats Card
+# 🦔 GitHub Stats Card
 ![cardene777's GitHub stats](https://github-readme-stats.vercel.app/api?username=cardene777&show_icons=true&theme=gruvbox)
 
 
