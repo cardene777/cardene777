@@ -4,12 +4,12 @@
 ![cardene777's GitHub stats](https://github-readme-stats.vercel.app/api?username=cardene777&show_icons=true&theme=gruvbox)
 
 
-# Qiita
+# 🌵 Qiita
 [![My Qiita posts](https://qiita-badge.apiapi.app/s/cardene/posts.svg)](http://qiita.com/cardene)
 [![My Qiita contributions](https://qiita-badge.apiapi.app/s/cardene/contributions.svg)](http://qiita.com/cardene)
 [![My Qiita followers](https://qiita-badge.apiapi.app/s/cardene/followers.svg)](http://qiita.com/cardene)
 
-# Zenn
+# 📘 Zenn
 ![](https://zenn-badge.herokuapp.com/s/heku/likes?style=plastic)
 ![](https://zenn-badge.herokuapp.com/s/heku/followers?style=plastic)
 
