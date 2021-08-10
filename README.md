@@ -4,29 +4,31 @@
 ![cardene777's GitHub stats](https://github-readme-stats.vercel.app/api?username=cardene777&show_icons=true&theme=gruvbox)
 
 
-# 🌵 Qiita
-[![My Qiita posts](https://qiita-badge.apiapi.app/s/cardene/posts.svg)](http://qiita.com/cardene)
-[![My Qiita contributions](https://qiita-badge.apiapi.app/s/cardene/contributions.svg)](http://qiita.com/cardene)
-[![My Qiita followers](https://qiita-badge.apiapi.app/s/cardene/followers.svg)](http://qiita.com/cardene)
-
-# 📘 Zenn
-![](https://zenn-badge.herokuapp.com/s/heku/likes?style=plastic)
-![](https://zenn-badge.herokuapp.com/s/heku/followers?style=plastic)
-
-
-#  🕊 Twitter
-[![Twitter Followers](https://img.shields.io/twitter/follow/cardene777?label=Twitter_followers&logo=twitter&style=flat)](https://twitter.com/cardene777)
-
-
 # 🏆 GitHub trophy
 ![trophy](https://github-profile-trophy.vercel.app/?username=cardene777&theme=gruvbox)
 
 
-### comtact me 
+# 💌 comtact me 
 
 [![Twitter](https://img.shields.io/badge/-Twitter-white?&logo=Twitter)](https://twitter.com/cardene777)
 [![Qiita](https://img.shields.io/badge/-Qiita-F6F6F4?&logo=Qiita)](https://qiita.com/cardene)
 [![Zenn](https://img.shields.io/badge/-Zenn-3EA8FF)](https://zenn.dev/heku)
+
+## 🌵 Qiita
+[![My Qiita posts](https://qiita-badge.apiapi.app/s/cardene/posts.svg)](http://qiita.com/cardene)
+[![My Qiita contributions](https://qiita-badge.apiapi.app/s/cardene/contributions.svg)](http://qiita.com/cardene)
+[![My Qiita followers](https://qiita-badge.apiapi.app/s/cardene/followers.svg)](http://qiita.com/cardene)
+
+## 📘 Zenn
+![](https://zenn-badge.herokuapp.com/s/heku/likes?style=plastic)
+![](https://zenn-badge.herokuapp.com/s/heku/followers?style=plastic)
+
+
+##  🕊 Twitter
+[![Twitter Followers](https://img.shields.io/twitter/follow/cardene777?label=Twitter_followers&logo=twitter&style=flat)](https://twitter.com/cardene777)
+
+# 📞 Language
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cardene777&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 ### chart
 
