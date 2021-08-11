@@ -27,7 +27,7 @@
 ###  🕊 Twitter
 [![Twitter Followers](https://img.shields.io/twitter/follow/cardene777?label=Twitter_followers&logo=twitter&style=flat)](https://twitter.com/cardene777)
 
-# 📞 Language
+# 🇯🇵 Language
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cardene777&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
