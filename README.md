@@ -24,15 +24,14 @@
 ![](https://zenn-badge.herokuapp.com/s/heku/followers?style=plastic)
 
 
-###  🕊 Twitter
+### 🕊 Twitter
 [![Twitter Followers](https://img.shields.io/twitter/follow/cardene777?label=Twitter_followers&logo=twitter&style=flat)](https://twitter.com/cardene777)
 
 # 🇯🇵 Language
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cardene777&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
-
-### chart
+# 📈 chart
 
 [![github-chart](https://github-chart.vercel.app/api?user=cardene777)](https://github.com/rokumura7/github-chart)
 
