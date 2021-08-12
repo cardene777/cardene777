@@ -37,7 +37,7 @@
 
 [![github-chart](https://github-chart.vercel.app/api?user=cardene777)](https://github.com/rokumura7/github-chart)
 
-# GitHub
+# 🗂 GitHub Profile Summary Cards
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cardene777&theme=solarized)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cardene777&theme=solarized)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=cardene777&theme=solarized)
