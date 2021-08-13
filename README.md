@@ -1,5 +1,4 @@
 # Hi there I'm Cardene 👋
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cardene777&" alt="cardene777" /></p>
 
 # 🦔 GitHub Stats Card
 ![cardene777's GitHub stats](https://github-readme-stats.vercel.app/api?username=cardene777&show_icons=true&theme=gruvbox)  
