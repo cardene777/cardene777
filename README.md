@@ -45,3 +45,15 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=cardene777&theme=solarized)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=cardene777&theme=solarized)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=cardene777&theme=solarized)
+
+# 🛠 GitHub Profile README Generator
+
+[GitHub Profile README Generator](https://rahuldkjain.github.io/gh-profile-readme-generator/)  
+
+# 🔑 Github Readme Stats
+
+[github-readme-stats](https://github.com/anuraghazra/github-readme-stats) 
+
+# ⏳ WakaTime
+
+[WakaTime](https://wakatime.com/dashboard)  
