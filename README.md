@@ -35,6 +35,8 @@
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=cardene)](https://github.com/anuraghazra/github-readme-stats)  
 
+<img src="https://github.com/cardene777/cardene777/blob/main/images/stat.svg" alt="Alternative Text"/>
+
 # 📈 Chart
 
 [![github-chart](https://github-chart.vercel.app/api?user=cardene777)](https://github.com/rokumura7/github-chart)  
