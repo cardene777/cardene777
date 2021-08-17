@@ -48,12 +48,16 @@
 
 # 🛠 GitHub Profile README Generator
 
-[GitHub Profile README Generator](https://rahuldkjain.github.io/gh-profile-readme-generator/)  
+**[GitHub Profile README Generator](https://rahuldkjain.github.io/gh-profile-readme-generator/)**  
 
 # 🔑 Github Readme Stats
 
-[github-readme-stats](https://github.com/anuraghazra/github-readme-stats) 
+**[github-readme-stats](https://github.com/anuraghazra/github-readme-stats)**  
 
 # ⏳ WakaTime
 
-[WakaTime](https://wakatime.com/dashboard)  
+**[WakaTime](https://wakatime.com/dashboard)**  
+
+# 📚 Reference
+
+**[GitHubProfileのページを可能な限りキラキラさせる方法](https://zenn.dev/yutakatay/articles/kirakira-github-profile)**  
