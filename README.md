@@ -33,7 +33,9 @@
 # 🇯🇵 Language
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cardene777&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=cardene)](https://github.com/anuraghazra/github-readme-stats)  
+# ⏳ WakaTime
+
+**[WakaTime](https://wakatime.com/dashboard)**  
 
 <img src="https://github.com/cardene777/cardene777/blob/main/images/stat.svg" alt="Alternative Text"/>
 
@@ -55,10 +57,6 @@
 # 🔑 Github Readme Stats
 
 **[github-readme-stats](https://github.com/anuraghazra/github-readme-stats)**  
-
-# ⏳ WakaTime
-
-**[WakaTime](https://wakatime.com/dashboard)**  
 
 # 📚 Reference
 
