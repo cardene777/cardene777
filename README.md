@@ -50,6 +50,9 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=cardene777&theme=solarized)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=cardene777&theme=solarized)
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 # 🛠 GitHub Profile README Generator
 
 **[GitHub Profile README Generator](https://rahuldkjain.github.io/gh-profile-readme-generator/)**  
