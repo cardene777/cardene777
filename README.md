@@ -1,5 +1,8 @@
 <div align="center">
   <h1>Cardene</h1>
+  <p>
+    <strong>🦔 Cardene Github Profile 🦔</strong>
+  </p>
 </div>
 
 # 🦔 GitHub Stats Card
