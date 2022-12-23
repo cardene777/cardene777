@@ -45,7 +45,5 @@
 # 🇯🇵 Language
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cardene777&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-# 📈 Chart
-
-[![github-chart](https://github-chart.vercel.app/api?user=cardene777)](https://github.com/rokumura7/github-chart)  
+![github-contribution-grid-snake](https://raw.githubusercontent.com/cardene777/cardene777/master/img/snake.svg)  
 
