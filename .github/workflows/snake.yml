@@ -28,7 +28,7 @@ jobs:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             buidl/snek-light.svg?palette=github-light&color_snake=#008080
-            buidl/snek-dark.svg?palette=github-dark&color_snake=#008080&color_dots=##401850,##6e2f74,##9e5ca3,##357450,##274850,
+            buidl/snek-dark.svg?palette=github-dark&color_snake=#008080&color_dots=#401850,#6e2f74,#9e5ca3,#357450,#274850,
       # push the content of <build_dir> to a branch
       # content will be available at https://raw.githubusercontent.com/<github_user>/<repository>/<target_branch>/<file> as a github page
       - name: snek slither to page
