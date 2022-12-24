@@ -8,7 +8,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cardene777&label=Profile%20views&color=0e75b6&style=flat" alt="cardene777" /> </p>
 
 ## 🦔 Stats
-<p><img height="200px" src="https://github-readme-stats.vercel.app/api?username=cardene777&show_icons=true&theme=gruvbox" />    <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cardene777&layout=compact&theme=gruvbox" /></p>
+<p><img height="200px" src="https://github-readme-stats.vercel.app/api?username=cardene777&show_icons=true&theme=gruvbox" /> <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cardene777&layout=compact&theme=gruvbox" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cardene777&theme=gruvbox" alt="cardene777" /></p>
 
