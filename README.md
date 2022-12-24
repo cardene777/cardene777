@@ -18,7 +18,8 @@
 
 ## 🌳 Snake
 
-![github-contribution-grid-snake](https://raw.githubusercontent.com/cardene777/cardene777/main/img/snake.svg) 
+![snek go brr](https://raw.githubusercontent.com/cardene777/cardene777/snek/snek-light.svg#gh-light-mode-only)
+![snek go brr](https://raw.githubusercontent.com/cardene777/cardene777/snek/snek-dark.svg#gh-dark-mode-only)
 
 ## 🌏 Languages and Tools
 <p align="left">
