@@ -6,8 +6,7 @@
 </div>
 
 ## 🦔 Stats
-![cardene777's GitHub stats](https://github-readme-stats.vercel.app/api?username=cardene777&show_icons=true&theme=gruvbox)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cardene777&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+<img height="200px" src="https://github-readme-stats.vercel.app/api?username=cardene777&show_icons=true&theme=gruvbox" />    <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cardene777&layout=compact&theme=gruvbox" />
 
 # ⭐️ Github Streak Stats
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cardene777&" alt="cardene777" /></p>  
