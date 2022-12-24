@@ -1,26 +1,40 @@
-name: snake
+
+
+name: snek go brr
+
 on:
-  workflow_dispatch:
+  # run on every push to main branch
+  push:
+    branches:
+    - main
+
+  # run automatically once every day
   schedule:
-    - cron: "0 1 * * *"
+    - cron: "0 0 * * *"
+
+  # allows to run job manually
+  workflow_dispatch:
+
 
 jobs:
-  update-repository:
-    name: Update this repo's README with repository_owner
+  generate:
     runs-on: ubuntu-latest
+    timeout-minutes: 10
     steps:
-      - name: Checkout
-        uses: actions/checkout@v2
-      - name: Generate Snake
-        uses: Platane/snk@master
-        id: snake-gif
+      # generates a snake game from a github user (<github_user_name>) contributions graph, output a svg animation at <svg_out_path>
+      - name: snek vector born
+        uses: Platane/snk/svg-only@v2
         with:
           github_user_name: ${{ github.repository_owner }}
-          gif_out_path: ./img/snake.gif
-          svg_out_path: ./img/snake.svg
-      - name: Push to GitHub
-        uses: EndBug/add-and-commit@v7.2.1
+          outputs: |
+            buidl/snek-light.svg?palette=github-light&color_snake=#ff44cc
+            buidl/snek-dark.svg?palette=github-dark&color_snake=#ff44cc&color_dots=#2C0D00,#631c03,#bd561d,#fa7a18,#fddf68
+      # push the content of <build_dir> to a branch
+      # content will be available at https://raw.githubusercontent.com/<github_user>/<repository>/<target_branch>/<file> as a github page
+      - name: snek slither to page
+        uses: crazy-max/ghaction-github-pages@v3
         with:
-	  # ブランチ名はデフォルトブランチ名にする(main or master)
-          branch: main  
-          message: ':rocket: Update'
+          target_branch: snek
+          build_dir: buidl
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
