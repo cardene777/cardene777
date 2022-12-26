@@ -87,13 +87,15 @@
 <a href="/https://chaldene.net/feed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://chaldene.net/feed" height="30" width="40" /></a>
 
 ### 🌵 Qiita
-[![My Qiita posts](https://qiita-badge.apiapi.app/s/cardene/posts.svg)](http://qiita.com/cardene)
-[![My Qiita contributions](https://qiita-badge.apiapi.app/s/cardene/contributions.svg)](http://qiita.com/cardene)
-[![My Qiita followers](https://qiita-badge.apiapi.app/s/cardene/followers.svg)](http://qiita.com/cardene)  
+[![Qiita posts](https://qiita-badge.apiapi.app/s/cardene/posts.svg)](http://qiita.com/cardene)
+[![Qiita contributions](https://qiita-badge.apiapi.app/s/cardene/contributions.svg)](http://qiita.com/cardene)
+[![Qiita followers](https://qiita-badge.apiapi.app/s/cardene/followers.svg)](http://qiita.com/cardene)  
 
 ### 📘 Zenn
-![](https://zenn-badge.herokuapp.com/s/heku/likes?style=plastic)
-![](https://zenn-badge.herokuapp.com/s/heku/followers?style=plastic)  
+<a href="https://zenn.dev/heku">
+  <img src="https://zenn.badge.nikaera.com/s/heku/likes?style=for-the-badge" alt="heku likes" />
+</a>
+
 
 ### 🕊 Twitter
 
