@@ -1,28 +1,37 @@
+
 <div align="center">
-  <h1>Cardene</h1>
+  <h1>🦔 Cardene 🦔</h1>
   <p>
-    <strong>🦔 Cardene Github Profile 🦔</strong>
+    <img src="https://komarev.com/ghpvc/?username=cardene777&label=Profile%20views&color=0e75b6&style=flat" alt="cardene777" />
   </p>
 </div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=cardene777&label=Profile%20views&color=0e75b6&style=flat" alt="cardene777" /> </p>
+<div align="center">
+  <p><img height="160px" src="https://github-readme-stats.vercel.app/api?username=cardene777&show_icons=true&theme=gruvbox" /> <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cardene777&layout=compact&theme=gruvbox" /></p>
+</div>
 
-## 🦔 Stats
-<p><img height="160px" src="https://github-readme-stats.vercel.app/api?username=cardene777&show_icons=true&theme=gruvbox" /> <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cardene777&layout=compact&theme=gruvbox" /></p>
+<div align="center">
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cardene777&theme=gruvbox" alt="cardene777" /></p>
+</div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cardene777&theme=gruvbox" alt="cardene777" /></p>
-
-  
-## 🏆 Trophy
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cardene777&theme=onedark" alt="cardene777" /></a></p>
-
-## 🌳 Snake
+<hr />
 
 ![snek go brr](https://raw.githubusercontent.com/cardene777/cardene777/snek/snek-light.svg#gh-light-mode-only)
 ![snek go brr](https://raw.githubusercontent.com/cardene777/cardene777/snek/snek-dark.svg#gh-dark-mode-only)
 
-## 🌏 Languages and Tools
-<p align="left">
+<hr />
+
+<div align="center">
+  <h2>🏆 Trophy</h2>
+</div>
+  
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cardene777&theme=onedark" alt="cardene777" /></a></p>
+
+<div align="center">
+  <h2>🌏 Languages and Tools</h2>
+</div>
+
+<p align="center">
   <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> 
     <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> 
   </a> 
@@ -81,23 +90,44 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> 
   </a> </p>
 
-## 💌 Comtact Me 
+<div align="center">
+  <h2>💌 Comtact Me</h2>
+</div> 
 
-<a href="https://twitter.com/cardene777" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="cardene777" height="30" width="40" /></a>
-<a href="/https://chaldene.net/feed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://chaldene.net/feed" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://twitter.com/cardene777" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="cardene777" height="30" width="40" /></a>
+  <a href="/https://chaldene.net/feed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://chaldene.net/feed" height="30" width="40" /></a>
+</p>
 
-### 🌵 Qiita
-[![Qiita posts](https://qiita-badge.apiapi.app/s/cardene/posts.svg)](http://qiita.com/cardene)
-[![Qiita contributions](https://qiita-badge.apiapi.app/s/cardene/contributions.svg)](http://qiita.com/cardene)
-[![Qiita followers](https://qiita-badge.apiapi.app/s/cardene/followers.svg)](http://qiita.com/cardene)  
+<div align="center">
+  <h2>🌵 Qiita</h2>
+</div>
 
-### 📘 Zenn
-<a href="https://zenn.dev/heku">
-  <img src="https://zenn.badge.nikaera.com/s/heku/likes?style=for-the-badge" alt="heku likes" />
-</a>
+<p align="center">
+  <a href="https://qiita.com/cardene">
+    <img src="https://badgen.org/img/qiita/cardene/contributions?style=for-the-badge" alt="cardene likes" />
+  </a>
+  <a href="https://qiita.com/cardene">
+    <img src="https://badgen.org/img/qiita/cardene/articles?style=for-the-badge" alt="cardene likes" />
+  </a>
+</p>
 
+<div align="center">
+  <h2>📘 Zenn</h2>
+</div>
 
-### 🕊 Twitter
+<p align="center">
+  <a href="https://zenn.dev/heku">
+    <img src="https://badgen.org/img/zenn/heku/likes?style=for-the-badge" alt="cardene likes" />
+  </a>
+  <a href="https://zenn.dev/heku">
+    <img src="https://badgen.org/img/zenn/heku/articles?style=for-the-badge" alt="cardene likes" />
+  </a>
+</p>
 
-<p align="left"> <a href="https://twitter.com/cardene777" target="blank"><img src="https://img.shields.io/twitter/follow/cardene777?logo=twitter&style=for-the-badge" alt="cardene777" /></a> </p>
+<div align="center">
+  <h2>🕊 Twitter</h2>
+</div>
+
+<p align="center"> <a href="https://twitter.com/cardene777" target="blank"><img src="https://img.shields.io/twitter/follow/cardene777?logo=twitter&style=for-the-badge" alt="cardene777" /></a> </p>
 
