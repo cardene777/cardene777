@@ -95,8 +95,8 @@
 </div> 
 
 <p align="center">
-  <a href="https://twitter.com/cardene777" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="cardene777" height="30" width="40" /></a>
-  <a href="/https://chaldene.net/feed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://chaldene.net/feed" height="30" width="40" /></a>
+  <a href="https://twitter.com/cardene777" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="cardene777" height="30" width="40" /></a>
+  <a href="https://chaldene.net/feed" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://chaldene.net/feed" height="30" width="40" /></a>
 </p>
 
 <div align="center">
@@ -104,10 +104,10 @@
 </div>
 
 <p align="center">
-  <a href="https://qiita.com/cardene">
+  <a href="https://qiita.com/cardene" target="_blank">
     <img src="https://badgen.org/img/qiita/cardene/contributions?style=for-the-badge" alt="cardene likes" />
   </a>
-  <a href="https://qiita.com/cardene">
+  <a href="https://qiita.com/cardene" target="_blank">
     <img src="https://badgen.org/img/qiita/cardene/articles?style=for-the-badge" alt="cardene likes" />
   </a>
 </p>
@@ -117,10 +117,10 @@
 </div>
 
 <p align="center">
-  <a href="https://zenn.dev/heku">
+  <a href="https://zenn.dev/heku" target="_blank">
     <img src="https://badgen.org/img/zenn/heku/likes?style=for-the-badge" alt="cardene likes" />
   </a>
-  <a href="https://zenn.dev/heku">
+  <a href="https://zenn.dev/heku" target="_blank">
     <img src="https://badgen.org/img/zenn/heku/articles?style=for-the-badge" alt="cardene likes" />
   </a>
 </p>
@@ -129,5 +129,5 @@
   <h2>🕊 Twitter</h2>
 </div>
 
-<p align="center"> <a href="https://twitter.com/cardene777" target="blank"><img src="https://img.shields.io/twitter/follow/cardene777?logo=twitter&style=for-the-badge" alt="cardene777" /></a> </p>
+<p align="center"> <a href="https://twitter.com/cardene777" target="_blank"><img src="https://img.shields.io/twitter/follow/cardene777?logo=twitter&style=for-the-badge" alt="cardene777" /></a> </p>
 
