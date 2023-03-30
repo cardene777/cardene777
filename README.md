@@ -6,6 +6,10 @@
   </p>
 </div>
 
+<p align="center">
+<img src="https://user-images.githubusercontent.com/61857866/228717214-f87e40b0-3a7f-42e5-9129-c8fbf31fa96a.gif" alt="example" width="300" />
+</p>
+
 <div align="center">
   <p><img height="160px" src="https://github-readme-stats.vercel.app/api?username=cardene777&show_icons=true&theme=gruvbox" /> <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cardene777&layout=compact&theme=gruvbox" /></p>
 </div>
