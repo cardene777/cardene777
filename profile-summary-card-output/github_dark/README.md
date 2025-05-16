@@ -35,30 +35,10 @@
 
 ---
 
-![](./2-most-commit-language.svg)
-
-```
-![](https://raw.githubusercontent.com/cardene777/cardene777/main/profile-summary-card-output/github_dark/2-most-commit-language.svg)
-```
-
-    
-
----
-
 ![](./3-stats.svg)
 
 ```
 ![](https://raw.githubusercontent.com/cardene777/cardene777/main/profile-summary-card-output/github_dark/3-stats.svg)
-```
-
-    
-
----
-
-![](./4-productive-time.svg)
-
-```
-![](https://raw.githubusercontent.com/cardene777/cardene777/main/profile-summary-card-output/github_dark/4-productive-time.svg)
 ```
 
     
