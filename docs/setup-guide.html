@@ -1,0 +1,233 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>⚙️ セットアップガイド - Cardene Profile</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<nav>
+  <a href="index.html">🏠 比較</a>
+  <a href="design-nord-final.html">⭐ Nord Final</a>
+  <a href="elements.html">✨ 新要素</a>
+  <a href="components.html">🧩 部品</a>
+  <a href="setup-guide.html" class="active">⚙️ セットアップ</a>
+</nav>
+
+<h1>⚙️ セットアップガイド</h1>
+<p>Nord Final 採用の 17 要素のうち、URL 貼るだけ以外で「事前セットアップが必要な 4 つ」の手順をまとめます。</p>
+
+<h2>1. ⏱ Wakatime</h2>
+<div class="card">
+  <div class="card-title">所要時間: 10 分 + コーディング 1-2 週間 (データ蓄積)</div>
+
+  <h3>手順</h3>
+  <ol style="line-height: 1.8;">
+    <li><a href="https://wakatime.com/signup" style="color: var(--accent);">https://wakatime.com/signup</a> で GitHub サインアップ</li>
+    <li>Settings → API Key をコピー</li>
+    <li>使用エディタの拡張機能をインストール:
+      <ul>
+        <li><strong>Cursor / VS Code</strong>: Marketplace で <code>WakaTime</code> 検索 → install → Cmd+Shift+P → <code>WakaTime: API Key</code> で貼付</li>
+        <li><strong>Vim / Neovim</strong>: <code>:Plug 'wakatime/vim-wakatime'</code></li>
+        <li><strong>JetBrains</strong>: Plugins → WakaTime install</li>
+        <li><strong>Ghostty / iTerm</strong>: <code>brew install wakatime-cli</code> + <a href="https://wakatime.com/terminal" style="color: var(--accent);">terminal 設定</a></li>
+      </ul>
+    </li>
+    <li>README に貼り付ける URL は API Key 不要 (公開 stats 経由):
+      <div class="meta">
+        https://github-readme-stats.vercel.app/api/wakatime?username=cardene777&theme=nord&hide_border=true&layout=compact
+      </div>
+    </li>
+    <li>Wakatime Settings で「Display code time publicly」を ON にする</li>
+  </ol>
+
+  <h3>注意点</h3>
+  <ul>
+    <li>初日は "No data" になる。1-2 週間使ってから貼ると見栄えが良い</li>
+    <li>言語別・OS 別・Editor 別など複数 layout がある</li>
+  </ul>
+</div>
+
+<h2>2. 🌳 3D Profile Contrib</h2>
+<div class="card">
+  <div class="card-title">所要時間: 5 分 (workflow 追加のみ)</div>
+
+  <h3>手順</h3>
+  <ol style="line-height: 1.8;">
+    <li><code>.github/workflows/profile-3d.yml</code> を作成:</li>
+  </ol>
+
+  <pre style="background: var(--surface-2); padding: 16px; border-radius: 6px; overflow-x: auto; color: var(--text);"><code>name: GitHub-Profile-3D-Contrib
+on:
+  schedule:
+    - cron: "0 0 * * *"  # 毎日 0:00 UTC
+  workflow_dispatch:
+  push:
+    branches: ["main"]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    name: generate-github-profile-3d-contrib
+    steps:
+      - uses: actions/checkout@v4
+      - uses: yoshi389111/github-profile-3d-contrib@0.7.1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+          SETTING_JSON: profile-3d-contrib/settings.json
+      - name: Commit & Push
+        run: |
+          git config user.name github-actions[bot]
+          git config user.email 41898282+github-actions[bot]@users.noreply.github.com
+          git add -A .
+          git diff --quiet HEAD || git commit -m ":zap: Update 3D contrib"
+          git push</code></pre>
+
+  <ol start="2" style="line-height: 1.8;">
+    <li><code>profile-3d-contrib/settings.json</code> を作成 (Nord 風配色):</li>
+  </ol>
+
+  <pre style="background: var(--surface-2); padding: 16px; border-radius: 6px; overflow-x: auto; color: var(--text);"><code>{
+  "type": "season",
+  "backgroundImageUrl": "",
+  "fileName": "profile-night-rainbow.svg",
+  "settings": [{ "type": "night-rainbow", "backgroundColor": "#2e3440" }]
+}</code></pre>
+
+  <ol start="3" style="line-height: 1.8;">
+    <li>Settings → Actions → General → Workflow permissions → "Read and write permissions" を ON</li>
+    <li>初回は Actions タブから手動実行 (workflow_dispatch)</li>
+    <li>README に貼る:
+      <div class="meta">
+        ![3D Contrib](./profile-3d-contrib/profile-night-rainbow.svg)
+      </div>
+    </li>
+  </ol>
+</div>
+
+<h2>3. 📐 Metrics Pin</h2>
+<div class="card">
+  <div class="card-title">所要時間: 10 分 (PAT 発行 + workflow 追加)</div>
+
+  <h3>手順</h3>
+  <ol style="line-height: 1.8;">
+    <li>Personal Access Token (Classic) を発行:
+      <ul>
+        <li>Settings → Developer settings → Personal access tokens → Tokens (classic) → Generate new token (classic)</li>
+        <li>Scope: <code>repo</code>, <code>read:user</code>, <code>read:org</code> を付与</li>
+        <li>Token をコピー</li>
+      </ul>
+    </li>
+    <li>cardene777/cardene777 リポの Settings → Secrets and variables → Actions → New repository secret:
+      <ul>
+        <li>Name: <code>METRICS_TOKEN</code></li>
+        <li>Value: 発行した PAT</li>
+      </ul>
+    </li>
+    <li><code>.github/workflows/metrics.yml</code> を作成:</li>
+  </ol>
+
+  <pre style="background: var(--surface-2); padding: 16px; border-radius: 6px; overflow-x: auto; color: var(--text);"><code>name: Metrics
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+  push:
+    branches: ["main"]
+
+jobs:
+  metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: header, activity, community, repositories, metadata
+          plugin_habits: yes
+          plugin_habits_facts: yes
+          plugin_habits_charts: yes
+          plugin_topics: yes
+          plugin_topics_mode: icons
+          plugin_followup: yes
+          plugin_achievements: yes
+          plugin_achievements_threshold: B
+          config_timezone: Asia/Tokyo
+          config_padding: 4 + 1%
+          config_octicon: yes
+          config_order: base.header, base.activity, plugin_habits, plugin_topics, plugin_followup, plugin_achievements</code></pre>
+
+  <ol start="4" style="line-height: 1.8;">
+    <li>Actions タブから手動実行 → metrics.svg がリポルートに生成される</li>
+    <li>README に貼る:
+      <div class="meta">
+        ![Metrics](./metrics.svg)
+      </div>
+    </li>
+  </ol>
+</div>
+
+<h2>4. 🐍 Snake Nord 配色化</h2>
+<div class="card">
+  <div class="card-title">所要時間: 2 分 (snake.yml の color 値を 1 行修正)</div>
+
+  <h3>手順</h3>
+  <ol style="line-height: 1.8;">
+    <li><code>.github/workflows/snake.yml</code> を編集:</li>
+  </ol>
+
+  <pre style="background: var(--surface-2); padding: 16px; border-radius: 6px; overflow-x: auto; color: var(--text);"><code># Before
+- uses: Platane/snk@v3
+  with:
+    github_user_name: ${{ github.repository_owner }}
+    outputs: |
+      dist/snek.svg
+      dist/snek-dark.svg?palette=github-dark
+      dist/snek.gif?color_snake=orange&color_dots=#bfd700,#8ebd00,#5a8700,#2e4d00,#0f1f00
+
+# After (Nord 配色)
+- uses: Platane/snk@v3
+  with:
+    github_user_name: ${{ github.repository_owner }}
+    outputs: |
+      dist/snek.svg?palette=github-light
+      dist/snek-dark.svg?color_snake=#88c0d0&color_dots=#3b4252,#a3be8c,#88c0d0,#81a1c1,#eceff4
+      dist/snek.gif?color_snake=#88c0d0&color_dots=#3b4252,#a3be8c,#88c0d0,#81a1c1,#eceff4</code></pre>
+
+  <ol start="2" style="line-height: 1.8;">
+    <li>commit + push → 翌日 0:00 に自動再生成 (もしくは Actions タブから手動実行)</li>
+  </ol>
+</div>
+
+<h2>📋 セットアップ優先順</h2>
+<div class="card">
+  <table>
+    <tr><th>順位</th><th>要素</th><th>難易度</th><th>効果</th></tr>
+    <tr><td>1</td><td>Snake Nord 配色</td><td>★ (2 分)</td><td>★★ (色統一)</td></tr>
+    <tr><td>2</td><td>3D Profile Contrib</td><td>★★ (5 分)</td><td>★★★★★ (個性大)</td></tr>
+    <tr><td>3</td><td>Metrics Pin</td><td>★★★ (10 分 + PAT)</td><td>★★★★ (情報量大)</td></tr>
+    <tr><td>4</td><td>Wakatime</td><td>★★★ (10 分 + データ蓄積)</td><td>★★★ (ガチ感)</td></tr>
+  </table>
+  <p style="color: var(--text-2);">※ Wakatime は IDE 拡張インストール後 1-2 週間使ってから README 公開がおすすめ</p>
+</div>
+
+<h2>🚀 README.md 反映の流れ</h2>
+<div class="card">
+  <ol style="line-height: 1.8;">
+    <li>本セットアップガイドの 4 つを実行 (Snake Nord 化 → 3D Contrib → Metrics → Wakatime の順)</li>
+    <li>各 workflow を初回手動実行して SVG 生成を確認</li>
+    <li>README.md を <code>design-nord-final.html</code> の内容で全面書き換え (コミット 1 本)</li>
+    <li>docs/ ディレクトリを削除 (役目終了)</li>
+    <li>PR 作成 → main マージ</li>
+  </ol>
+</div>
+
+</body>
+</html>
