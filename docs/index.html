@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Cardene Profile Redesign - 4 案比較</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<nav>
+  <a href="index.html" class="active">🏠 比較</a>
+  <a href="design-a-tokyo-night.html">🎨 案A Tokyo Night</a>
+  <a href="design-b-catppuccin.html">🌃 案B Catppuccin</a>
+  <a href="design-c-dracula.html">🧛 案C Dracula</a>
+  <a href="design-d-cyberpunk.html">⚡ 案D Cyberpunk</a>
+  <a href="components.html">🧩 部品別カタログ</a>
+</nav>
+
+<h1>🦔 Cardene Profile - 完全リデザイン提案</h1>
+
+<p>4 つのデザイン案を実物 SVG で比較できます。気に入った案のページに移動して全体感を確認してください。</p>
+
+<h2>🎯 タグライン共通方針</h2>
+<div class="card">
+  <p>ユーザー希望「Smart Contract Engineer / AI Builder 路線」を全案に反映。</p>
+  <div class="meta">
+    Line 1: Smart Contract Engineer / Solidity / Foundry<br>
+    Line 2: AI Builder · Next.js · TypeScript<br>
+    Line 3: Building Web3 × AI products<br>
+    Line 4: Always shipping, always learning
+  </div>
+</div>
+
+<h2>🎨 4 案を比較</h2>
+<div class="design-grid">
+
+  <a href="design-a-tokyo-night.html" class="design-card">
+    <h3>案A Tokyo Night<span class="recommended-badge">Recommended</span></h3>
+    <div class="swatch">
+      <span style="background: #1a1b27"></span>
+      <span style="background: #70a5fd"></span>
+      <span style="background: #bf91f3"></span>
+      <span style="background: #38bdae"></span>
+    </div>
+    <p>2025 年トレンドの dev プロフィールテーマ。深い紫紺ベースで GitHub Dark UI と完全に馴染む。</p>
+    <p style="color: var(--text-2); font-size: 13px;">★★★★★ モダン・洗練</p>
+  </a>
+
+  <a href="design-b-catppuccin.html" class="design-card">
+    <h3>案B Catppuccin Mocha</h3>
+    <div class="swatch">
+      <span style="background: #1e1e2e"></span>
+      <span style="background: #cba6f7"></span>
+      <span style="background: #89b4fa"></span>
+      <span style="background: #f5c2e7"></span>
+    </div>
+    <p>パステル系ダークテーマ。柔らかく上品な印象。pastel 好みなら。</p>
+    <p style="color: var(--text-2); font-size: 13px;">★★★★ 上品・柔らか</p>
+  </a>
+
+  <a href="design-c-dracula.html" class="design-card">
+    <h3>案C Dracula</h3>
+    <div class="swatch">
+      <span style="background: #282a36"></span>
+      <span style="background: #ff79c6"></span>
+      <span style="background: #bd93f9"></span>
+      <span style="background: #8be9fd"></span>
+    </div>
+    <p>高コントラスト・視認性重視のクラシック人気テーマ。</p>
+    <p style="color: var(--text-2); font-size: 13px;">★★★ クラシック</p>
+  </a>
+
+  <a href="design-d-cyberpunk.html" class="design-card">
+    <h3>案D Cyberpunk Neon</h3>
+    <div class="swatch">
+      <span style="background: #000000"></span>
+      <span style="background: #00DBDE"></span>
+      <span style="background: #FC00FF"></span>
+      <span style="background: #ff00ff"></span>
+    </div>
+    <p>強い差別化を狙ったネオン系。Web3 × AI builder ブランディング向け。</p>
+    <p style="color: var(--text-2); font-size: 13px;">★★★★★ 派手・尖った</p>
+  </a>
+
+</div>
+
+<h2>📍 現状の README (問題確認)</h2>
+<div class="card">
+  <div class="card-desc">
+    <span class="badge danger">画像消失</span> Heroku 廃止で streak が落ちる<br>
+    <span class="badge warn">rate limit</span> Vercel free tier の trophy/stats 共有上限<br>
+    <span class="badge danger">壊れ</span> Twitter follow badge は X API 仕様変更で死亡<br>
+    <span class="badge warn">冗長</span> devicons × 19 個の個別 img タグ
+  </div>
+  <div class="preview" style="background: white;">
+    <div class="center">
+      <h1 style="color: black;">🦔 Cardene 🦔</h1>
+      <p><img src="https://komarev.com/ghpvc/?username=cardene777&label=Profile%20views&color=0e75b6&style=flat" /></p>
+      <img src="https://user-images.githubusercontent.com/61857866/228717214-f87e40b0-3a7f-42e5-9129-c8fbf31fa96a.gif" width="240" />
+      <p>
+        <img height="160" src="https://github-readme-stats.vercel.app/api?username=cardene777&show_icons=true&theme=gruvbox" />
+        <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cardene777&layout=compact&theme=gruvbox" />
+      </p>
+      <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=cardene777&theme=gruvbox" /></p>
+      <p><img src="https://github-profile-trophy.vercel.app/?username=cardene777&theme=onedark" /></p>
+    </div>
+  </div>
+</div>
+
+<h2>📋 4 案共通の変更点</h2>
+<div class="card">
+  <table>
+    <thead>
+      <tr><th>項目</th><th>Before (現状)</th><th>After (4 案共通)</th></tr>
+    </thead>
+    <tbody>
+      <tr><td>ヘッダ</td><td>h1 + GIF</td><td>capsule-render グラデーション + Typing SVG</td></tr>
+      <tr><td>Streak</td><td>heroku (落ちる)</td><td>streak-stats.demolab.com に移行</td></tr>
+      <tr><td>Trophy</td><td>vercel (rate limit)</td><td>1 行配置 + cache_seconds=86400</td></tr>
+      <tr><td>Activity Graph</td><td>なし</td><td>github-readme-activity-graph 追加</td></tr>
+      <tr><td>Tech Stack</td><td>img × 19 個</td><td>skillicons.dev 1 リクエスト</td></tr>
+      <tr><td>Twitter follow</td><td>壊れた badge</td><td>shields.io 静的 X badge</td></tr>
+      <tr><td>Heroku icon</td><td>tech stack に存在</td><td>削除 (実使用なし)</td></tr>
+      <tr><td>Qiita / Zenn badge</td><td>badgen.org (不安定)</td><td>shields.io 静的 badge にリンク化</td></tr>
+      <tr><td>GIF イラスト</td><td>あり</td><td>削除 (capsule header に置換)</td></tr>
+      <tr><td>Snake</td><td>既設</td><td>そのまま維持</td></tr>
+    </tbody>
+  </table>
+</div>
+
+<h2>🔧 安定性対策 (4 案共通)</h2>
+<div class="card">
+  <ul>
+    <li><strong>cache_seconds パラメータ</strong>: stats/streak/trophy 全てに <code>&cache_seconds=86400</code> 付与で 24h キャッシュ → rate limit 緩和</li>
+    <li><strong>summary-cards self-host</strong>: 既設 <code>profile-summray-cards.yml</code> を予備経路として維持</li>
+    <li><strong>ホスト分散</strong>: streak は demolab.com、stats/trophy は vercel と分散させ単一障害を回避</li>
+    <li><strong>Snake</strong>: 既設の cron で日次更新、そのまま</li>
+  </ul>
+</div>
+
+</body>
+</html>
