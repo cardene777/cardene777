@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>🖼 C Gallery - Cardene Profile</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<nav>
+  <a href="index.html">🏠 比較</a>
+  <a href="aesthetic-a-editorial.html">✨ A Editorial</a>
+  <a href="aesthetic-b-terminal.html">⌨ B Terminal Art</a>
+  <a href="aesthetic-c-gallery.html" class="active">🖼 C Gallery</a>
+  <a href="aesthetic-d-identity.html">🪪 D Identity Card</a>
+</nav>
+
+<h1>🖼 C Gallery - 美術館</h1>
+
+<div class="card">
+  <div class="card-title">設計思想</div>
+  <div class="card-desc">
+    <strong>カスタム SVG バナー 1 枚を主役にする。</strong><br>
+    @anuraghazra / @tarptaeya のように作品としての「1 枚絵」を README の中心に。<br>
+    その後はキャプションのように補足情報を最小限。
+  </div>
+</div>
+
+<h2>📺 完成イメージ</h2>
+<div class="card">
+  <div class="preview" style="background: #2e3440; padding: 0;">
+
+    <!-- 1. Hero SVG (full-width custom banner) -->
+    <div style="width: 100%; height: 380px; background: linear-gradient(135deg, #2e3440 0%, #3b4252 50%, #4c566a 100%); position: relative; overflow: hidden; display: flex; align-items: center; justify-content: center;">
+
+      <!-- SVG art layer (geometric Nord aurora) -->
+      <svg width="100%" height="100%" style="position: absolute; inset: 0;" viewBox="0 0 800 400" preserveAspectRatio="xMidYMid slice">
+        <defs>
+          <linearGradient id="g1" x1="0%" y1="0%" x2="100%" y2="100%">
+            <stop offset="0%" style="stop-color:#88c0d0;stop-opacity:0.4" />
+            <stop offset="100%" style="stop-color:#5e81ac;stop-opacity:0" />
+          </linearGradient>
+          <linearGradient id="g2" x1="0%" y1="100%" x2="100%" y2="0%">
+            <stop offset="0%" style="stop-color:#a3be8c;stop-opacity:0.3" />
+            <stop offset="100%" style="stop-color:#b48ead;stop-opacity:0" />
+          </linearGradient>
+        </defs>
+        <circle cx="600" cy="100" r="220" fill="url(#g1)" />
+        <circle cx="200" cy="350" r="180" fill="url(#g2)" />
+        <line x1="0" y1="200" x2="800" y2="200" stroke="#4c566a" stroke-width="0.5" stroke-dasharray="2,8" />
+        <line x1="400" y1="0" x2="400" y2="400" stroke="#4c566a" stroke-width="0.5" stroke-dasharray="2,8" />
+      </svg>
+
+      <!-- Centered name overlay -->
+      <div style="position: relative; text-align: center; z-index: 1;">
+        <p style="color: #88c0d0; font-family: 'JetBrains Mono', monospace; font-size: 12px; letter-spacing: 0.5em; margin: 0 0 16px; text-transform: uppercase;">Cardene</p>
+        <h1 style="color: #eceff4; font-size: 64px; font-weight: 200; margin: 0; line-height: 1; letter-spacing: -0.02em; background: none; -webkit-text-fill-color: #eceff4; border: none; padding: 0;">
+          smart contracts<br>
+          <span style="color: #88c0d0; font-style: italic;">×</span> ai builder
+        </h1>
+        <p style="color: #d8dee9; font-family: 'JetBrains Mono', monospace; font-size: 13px; margin: 24px 0 0; opacity: 0.7;">— building solhawk · alphatrader · in tokyo</p>
+      </div>
+    </div>
+
+    <!-- 2. Caption / About (gallery wall text) -->
+    <div style="max-width: 720px; margin: 80px auto 0; padding: 0 24px;">
+      <p style="color: #88c0d0; font-family: 'JetBrains Mono', monospace; font-size: 11px; letter-spacing: 0.3em; margin: 0 0 16px; text-transform: uppercase;">Artist statement</p>
+      <p style="color: #d8dee9; font-size: 17px; line-height: 1.8; margin: 0;">
+        Smart contracts are immutable poetry — once deployed, they live forever. I write them in Solidity and audit them with LLMs through <a href="https://github.com/cardene777/solhawk" style="color: #88c0d0; text-decoration: none; border-bottom: 1px solid #88c0d0;">solhawk</a>. By day I ship Web3 × AI products in Next.js. By night I tune trading strategies with Python agents in <a href="https://github.com/cardene777/AlphaTrader" style="color: #88c0d0; text-decoration: none; border-bottom: 1px solid #88c0d0;">AlphaTrader</a>.
+      </p>
+    </div>
+
+    <!-- 3. Featured works (gallery exhibits) -->
+    <div style="max-width: 720px; margin: 80px auto 0; padding: 0 24px;">
+      <p style="color: #88c0d0; font-family: 'JetBrains Mono', monospace; font-size: 11px; letter-spacing: 0.3em; margin: 0 0 32px; text-transform: uppercase;">Featured works</p>
+
+      <!-- Exhibit 1 -->
+      <div style="display: grid; grid-template-columns: 80px 1fr; gap: 24px; padding: 24px 0; border-bottom: 1px solid #3b4252;">
+        <p style="color: #4c566a; font-family: 'JetBrains Mono', monospace; font-size: 13px; margin: 0;">No. 01</p>
+        <div>
+          <p style="color: #eceff4; font-size: 18px; margin: 0 0 4px;"><a href="https://github.com/cardene777/solhawk" style="color: #eceff4; text-decoration: none;">solhawk</a></p>
+          <p style="color: #88c0d0; font-size: 12px; margin: 0 0 8px; font-family: 'JetBrains Mono', monospace;">RUST · HTML · ACTIVE</p>
+          <p style="color: #d8dee9; font-size: 14px; line-height: 1.7; margin: 0;">85 vulnerability detectors, document-driven invariant checking, and LLM integration for smart contract auditing.</p>
+        </div>
+      </div>
+
+      <!-- Exhibit 2 -->
+      <div style="display: grid; grid-template-columns: 80px 1fr; gap: 24px; padding: 24px 0; border-bottom: 1px solid #3b4252;">
+        <p style="color: #4c566a; font-family: 'JetBrains Mono', monospace; font-size: 13px; margin: 0;">No. 02</p>
+        <div>
+          <p style="color: #eceff4; font-size: 18px; margin: 0 0 4px;"><a href="https://github.com/cardene777/AlphaTrader" style="color: #eceff4; text-decoration: none;">AlphaTrader</a></p>
+          <p style="color: #88c0d0; font-size: 12px; margin: 0 0 8px; font-family: 'JetBrains Mono', monospace;">PYTHON · ACTIVE</p>
+          <p style="color: #d8dee9; font-size: 14px; line-height: 1.7; margin: 0;">AI-driven crypto trading agent with backtesting and multi-strategy execution.</p>
+        </div>
+      </div>
+
+      <!-- Exhibit 3 -->
+      <div style="display: grid; grid-template-columns: 80px 1fr; gap: 24px; padding: 24px 0; border-bottom: 1px solid #3b4252;">
+        <p style="color: #4c566a; font-family: 'JetBrains Mono', monospace; font-size: 13px; margin: 0;">No. 03</p>
+        <div>
+          <p style="color: #eceff4; font-size: 18px; margin: 0 0 4px;"><a href="https://github.com/cardene777/dapps_book" style="color: #eceff4; text-decoration: none;">dapps_book</a></p>
+          <p style="color: #88c0d0; font-size: 12px; margin: 0 0 8px; font-family: 'JetBrains Mono', monospace;">TYPESCRIPT · ⭐ 4</p>
+          <p style="color: #d8dee9; font-size: 14px; line-height: 1.7; margin: 0;">A hands-on textbook for building dApps from zero — learning by shipping.</p>
+        </div>
+      </div>
+
+      <!-- Exhibit 4 -->
+      <div style="display: grid; grid-template-columns: 80px 1fr; gap: 24px; padding: 24px 0;">
+        <p style="color: #4c566a; font-family: 'JetBrains Mono', monospace; font-size: 13px; margin: 0;">No. 04</p>
+        <div>
+          <p style="color: #eceff4; font-size: 18px; margin: 0 0 4px;"><a href="https://github.com/cardene777/Central-Data-Hub" style="color: #eceff4; text-decoration: none;">Central-Data-Hub</a></p>
+          <p style="color: #88c0d0; font-size: 12px; margin: 0 0 8px; font-family: 'JetBrains Mono', monospace;">SOLIDITY · ⭐ 2</p>
+          <p style="color: #d8dee9; font-size: 14px; line-height: 1.7; margin: 0;">NFT-based bulk data management — pack large datasets into a single token.</p>
+        </div>
+      </div>
+    </div>
+
+    <!-- 4. Visit (footer-like) -->
+    <div style="max-width: 720px; margin: 80px auto 0; padding: 0 24px 80px; text-align: center;">
+      <p style="color: #88c0d0; font-family: 'JetBrains Mono', monospace; font-size: 11px; letter-spacing: 0.3em; margin: 0 0 16px; text-transform: uppercase;">Visit</p>
+      <p style="color: #d8dee9; font-size: 14px; line-height: 2;">
+        <a href="https://x.com/cardene777" style="color: #d8dee9; margin: 0 16px;">x</a> ·
+        <a href="https://zenn.dev/heku" style="color: #d8dee9; margin: 0 16px;">zenn</a> ·
+        <a href="https://qiita.com/cardene" style="color: #d8dee9; margin: 0 16px;">qiita</a> ·
+        <a href="https://chaldene.net" style="color: #d8dee9; margin: 0 16px;">blog</a>
+      </p>
+    </div>
+
+  </div>
+</div>
+
+<h2>🎯 構成要素 (4 ブロック)</h2>
+<div class="card">
+  <table>
+    <tr><th>#</th><th>要素</th><th>役割</th></tr>
+    <tr><td>1</td><td>Hero SVG</td><td>全幅 380px の自作グラデバナー (作品としての顔)</td></tr>
+    <tr><td>2</td><td>Artist Statement</td><td>キャプション風の自己紹介 1 段落</td></tr>
+    <tr><td>3</td><td>Featured Works</td><td>展示作品リスト (No.01-04 + 説明 + タグ)</td></tr>
+    <tr><td>4</td><td>Visit</td><td>美術館の出口風リンク列</td></tr>
+  </table>
+  <p style="color: var(--text-2); margin-top: 16px;">特徴: 美術館の展示空間のような「余白 + 番号 + キャプション」のリズム。</p>
+</div>
+
+</body>
+</html>

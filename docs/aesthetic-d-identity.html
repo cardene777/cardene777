@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>🪪 D Identity Card - Cardene Profile</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<nav>
+  <a href="index.html">🏠 比較</a>
+  <a href="aesthetic-a-editorial.html">✨ A Editorial</a>
+  <a href="aesthetic-b-terminal.html">⌨ B Terminal Art</a>
+  <a href="aesthetic-c-gallery.html">🖼 C Gallery</a>
+  <a href="aesthetic-d-identity.html" class="active">🪪 D Identity Card</a>
+</nav>
+
+<h1>🪪 D Identity Card - 名刺</h1>
+
+<div class="card">
+  <div class="card-title">設計思想</div>
+  <div class="card-desc">
+    <strong>カード型のレイアウトで「名刺」を渡すように。</strong><br>
+    @leerob / @rauchg / @antfu のような海外トップエンジニアが好む、リンクと最小情報のみで構成。<br>
+    上部に大きなカード型ヘッダー、下部に整理されたメタ情報。
+  </div>
+</div>
+
+<h2>📺 完成イメージ</h2>
+<div class="card">
+  <div class="preview" style="background: #2e3440; padding: 64px 24px;">
+
+    <!-- The Card -->
+    <div style="max-width: 720px; margin: 0 auto; background: #3b4252; border-radius: 16px; padding: 48px; box-shadow: 0 24px 48px rgba(0,0,0,0.3); border: 1px solid #4c566a;">
+
+      <!-- Top: small label + name -->
+      <div style="display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 32px;">
+        <div>
+          <p style="color: #88c0d0; font-family: 'JetBrains Mono', monospace; font-size: 11px; letter-spacing: 0.3em; margin: 0 0 8px;">SOFTWARE ENGINEER</p>
+          <h1 style="color: #eceff4; font-size: 42px; font-weight: 700; margin: 0; line-height: 1; background: none; -webkit-text-fill-color: #eceff4; border: none; padding: 0;">Cardene</h1>
+          <p style="color: #d8dee9; font-size: 16px; margin: 8px 0 0;">Smart Contract × AI Builder · Japan</p>
+        </div>
+        <div style="text-align: right;">
+          <p style="color: #4c566a; font-family: 'JetBrains Mono', monospace; font-size: 11px; margin: 0;">ID</p>
+          <p style="color: #88c0d0; font-family: 'JetBrains Mono', monospace; font-size: 13px; margin: 4px 0 0;">@cardene777</p>
+        </div>
+      </div>
+
+      <!-- Divider -->
+      <div style="height: 1px; background: #4c566a; margin: 32px 0;"></div>
+
+      <!-- Two-column meta info -->
+      <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 32px; color: #d8dee9; font-size: 14px;">
+
+        <!-- Left: Skills / Stack -->
+        <div>
+          <p style="color: #88c0d0; font-family: 'JetBrains Mono', monospace; font-size: 11px; letter-spacing: 0.2em; margin: 0 0 12px;">STACK</p>
+          <p style="margin: 0; line-height: 2;">
+            Solidity · Foundry<br>
+            TypeScript · Next.js<br>
+            Rust · Python<br>
+            FastAPI · PostgreSQL
+          </p>
+        </div>
+
+        <!-- Right: Currently -->
+        <div>
+          <p style="color: #88c0d0; font-family: 'JetBrains Mono', monospace; font-size: 11px; letter-spacing: 0.2em; margin: 0 0 12px;">CURRENTLY</p>
+          <p style="margin: 0; line-height: 2;">
+            🦅 <a href="https://github.com/cardene777/solhawk" style="color: #d8dee9;">solhawk</a> — Rust × LLM auditor<br>
+            📈 <a href="https://github.com/cardene777/AlphaTrader" style="color: #d8dee9;">AlphaTrader</a> — Python AI agent<br>
+            📚 dApps × AI hands-on books<br>
+            🇯🇵 Tokyo, Japan
+          </p>
+        </div>
+      </div>
+
+      <!-- Divider -->
+      <div style="height: 1px; background: #4c566a; margin: 32px 0;"></div>
+
+      <!-- Bottom: contact -->
+      <div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 16px;">
+        <p style="color: #88c0d0; font-family: 'JetBrains Mono', monospace; font-size: 11px; letter-spacing: 0.2em; margin: 0;">CONNECT</p>
+        <p style="margin: 0; font-size: 14px;">
+          <a href="https://x.com/cardene777" style="color: #d8dee9; margin: 0 8px;">X</a>
+          <span style="color: #4c566a;">·</span>
+          <a href="https://zenn.dev/heku" style="color: #d8dee9; margin: 0 8px;">Zenn</a>
+          <span style="color: #4c566a;">·</span>
+          <a href="https://qiita.com/cardene" style="color: #d8dee9; margin: 0 8px;">Qiita</a>
+          <span style="color: #4c566a;">·</span>
+          <a href="https://chaldene.net" style="color: #d8dee9; margin: 0 8px;">Blog</a>
+        </p>
+      </div>
+    </div>
+
+    <!-- Below the card: Featured 4 repos as small cards -->
+    <div style="max-width: 720px; margin: 64px auto 0;">
+      <p style="color: #88c0d0; font-family: 'JetBrains Mono', monospace; font-size: 11px; letter-spacing: 0.3em; margin: 0 0 24px; text-align: center;">— FEATURED PROJECTS —</p>
+
+      <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 16px;">
+        <a href="https://github.com/cardene777/solhawk" style="background: #3b4252; border-radius: 10px; padding: 20px; text-decoration: none; border: 1px solid #4c566a; transition: border-color 0.2s; display: block;">
+          <p style="color: #88c0d0; font-family: 'JetBrains Mono', monospace; font-size: 10px; margin: 0 0 8px;">RUST · ACTIVE</p>
+          <p style="color: #eceff4; font-size: 16px; font-weight: 600; margin: 0 0 4px;">solhawk</p>
+          <p style="color: #a3be8c; font-size: 12px; margin: 0; line-height: 1.5;">Rust × LLM Solidity auditor with 85 detectors</p>
+        </a>
+
+        <a href="https://github.com/cardene777/AlphaTrader" style="background: #3b4252; border-radius: 10px; padding: 20px; text-decoration: none; border: 1px solid #4c566a; display: block;">
+          <p style="color: #88c0d0; font-family: 'JetBrains Mono', monospace; font-size: 10px; margin: 0 0 8px;">PYTHON · ACTIVE</p>
+          <p style="color: #eceff4; font-size: 16px; font-weight: 600; margin: 0 0 4px;">AlphaTrader</p>
+          <p style="color: #a3be8c; font-size: 12px; margin: 0; line-height: 1.5;">AI-driven crypto trading agent</p>
+        </a>
+
+        <a href="https://github.com/cardene777/dapps_book" style="background: #3b4252; border-radius: 10px; padding: 20px; text-decoration: none; border: 1px solid #4c566a; display: block;">
+          <p style="color: #88c0d0; font-family: 'JetBrains Mono', monospace; font-size: 10px; margin: 0 0 8px;">TYPESCRIPT · ⭐ 4</p>
+          <p style="color: #eceff4; font-size: 16px; font-weight: 600; margin: 0 0 4px;">dapps_book</p>
+          <p style="color: #a3be8c; font-size: 12px; margin: 0; line-height: 1.5;">Hands-on textbook for building dApps</p>
+        </a>
+
+        <a href="https://github.com/cardene777/Central-Data-Hub" style="background: #3b4252; border-radius: 10px; padding: 20px; text-decoration: none; border: 1px solid #4c566a; display: block;">
+          <p style="color: #88c0d0; font-family: 'JetBrains Mono', monospace; font-size: 10px; margin: 0 0 8px;">SOLIDITY · ⭐ 2</p>
+          <p style="color: #eceff4; font-size: 16px; font-weight: 600; margin: 0 0 4px;">Central-Data-Hub</p>
+          <p style="color: #a3be8c; font-size: 12px; margin: 0; line-height: 1.5;">NFT-based bulk data management</p>
+        </a>
+      </div>
+    </div>
+
+    <!-- Footer: small status line -->
+    <div style="max-width: 720px; margin: 48px auto 0; text-align: center;">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=cardene777&bg_color=2e3440&color=88c0d0&line=81a1c1&point=a3be8c&area=true&hide_border=true&custom_title=" style="opacity: 0.6; max-width: 720px;" />
+    </div>
+
+  </div>
+</div>
+
+<h2>🎯 構成要素 (3 ブロック)</h2>
+<div class="card">
+  <table>
+    <tr><th>#</th><th>要素</th><th>役割</th></tr>
+    <tr><td>1</td><td>Identity Card</td><td>名前 + ID + STACK + CURRENTLY + CONNECT を 1 枚のカードに</td></tr>
+    <tr><td>2</td><td>Featured Projects</td><td>2x2 のミニカードで代表作 4 つ</td></tr>
+    <tr><td>3</td><td>Activity Graph (薄め)</td><td>フッターとして控えめに 1 本</td></tr>
+  </table>
+  <p style="color: var(--text-2); margin-top: 16px;">特徴: 物理的な「名刺」を渡されたような印象。情報密度と余白のバランスが取れている。</p>
+</div>
+
+</body>
+</html>

@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>⌨ B Terminal Art - Cardene Profile</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<nav>
+  <a href="index.html">🏠 比較</a>
+  <a href="aesthetic-a-editorial.html">✨ A Editorial</a>
+  <a href="aesthetic-b-terminal.html" class="active">⌨ B Terminal Art</a>
+  <a href="aesthetic-c-gallery.html">🖼 C Gallery</a>
+  <a href="aesthetic-d-identity.html">🪪 D Identity Card</a>
+</nav>
+
+<h1>⌨ B Terminal Art - エンジニアの原点</h1>
+
+<div class="card">
+  <div class="card-title">設計思想</div>
+  <div class="card-desc">
+    <strong>ターミナル風 × ASCII art × neofetch 風レイアウト。</strong><br>
+    開発者が見て「分かってる感」を即座に伝えるスタイル。<br>
+    左に ASCII ロゴ、右に neofetch 風のステータス。
+  </div>
+</div>
+
+<h2>📺 完成イメージ</h2>
+<div class="card">
+  <div class="preview" style="background: #2e3440; padding: 48px 24px; font-family: 'JetBrains Mono', 'SF Mono', monospace;">
+
+    <!-- Terminal window header -->
+    <div style="max-width: 880px; margin: 0 auto; background: #3b4252; border-radius: 8px 8px 0 0; padding: 8px 16px; display: flex; align-items: center; gap: 8px;">
+      <span style="width: 12px; height: 12px; border-radius: 50%; background: #bf616a; display: inline-block;"></span>
+      <span style="width: 12px; height: 12px; border-radius: 50%; background: #ebcb8b; display: inline-block;"></span>
+      <span style="width: 12px; height: 12px; border-radius: 50%; background: #a3be8c; display: inline-block;"></span>
+      <span style="color: #d8dee9; font-size: 13px; margin-left: 16px;">cardene@github: ~</span>
+    </div>
+
+    <!-- Terminal body -->
+    <div style="max-width: 880px; margin: 0 auto; background: #2e3440; border: 1px solid #3b4252; border-top: none; border-radius: 0 0 8px 8px; padding: 24px; color: #eceff4;">
+
+      <!-- Prompt -->
+      <p style="color: #88c0d0; margin: 0;">$ <span style="color: #a3be8c;">whoami</span></p>
+      <p style="color: #d8dee9; margin: 4px 0 16px;">cardene</p>
+
+      <p style="color: #88c0d0; margin: 0;">$ <span style="color: #a3be8c;">neofetch</span></p>
+
+      <!-- ASCII art + info side by side -->
+      <div style="display: grid; grid-template-columns: 320px 1fr; gap: 32px; margin-top: 8px; font-size: 13px; line-height: 1.6;">
+
+        <!-- ASCII Art -->
+        <pre style="color: #88c0d0; margin: 0;">
+        ╭━━━━━━━╮
+       ╱  ●   ●  ╲
+      │  ╲  ▽  ╱  │
+       ╲    ▿    ╱
+        ╲___╲╱___╱
+       ╱           ╲
+      ╱  CARDENE    ╲
+     │ ⛓️ × 🧠 × ⚡ │
+      ╲             ╱
+       ╲___________╱
+            │ │
+           ─┘ └─
+        </pre>
+
+        <!-- neofetch info -->
+        <div style="color: #d8dee9; margin: 0;">
+          <p style="color: #88c0d0; margin: 0; border-bottom: 1px solid #4c566a; padding-bottom: 4px;">cardene@github</p>
+          <p style="margin: 4px 0;"><span style="color: #ebcb8b;">─────────────────</span></p>
+          <p style="margin: 4px 0;"><span style="color: #88c0d0;">Role</span>: Smart Contract Engineer × AI Builder</p>
+          <p style="margin: 4px 0;"><span style="color: #88c0d0;">Location</span>: Japan 🇯🇵</p>
+          <p style="margin: 4px 0;"><span style="color: #88c0d0;">Languages</span>: solidity · rust · typescript · python</p>
+          <p style="margin: 4px 0;"><span style="color: #88c0d0;">Frameworks</span>: foundry · next.js · fastapi</p>
+          <p style="margin: 4px 0;"><span style="color: #88c0d0;">Editor</span>: claude-code + cursor + ghostty</p>
+          <p style="margin: 4px 0;"><span style="color: #88c0d0;">Currently</span>: building solhawk (LLM × Solidity audit)</p>
+          <p style="margin: 4px 0;"><span style="color: #88c0d0;">Repos</span>: 71 public · 2026 active</p>
+          <p style="margin: 12px 0 4px;">
+            <span style="background: #bf616a; width: 16px; height: 16px; display: inline-block;"></span>
+            <span style="background: #d08770; width: 16px; height: 16px; display: inline-block;"></span>
+            <span style="background: #ebcb8b; width: 16px; height: 16px; display: inline-block;"></span>
+            <span style="background: #a3be8c; width: 16px; height: 16px; display: inline-block;"></span>
+            <span style="background: #88c0d0; width: 16px; height: 16px; display: inline-block;"></span>
+            <span style="background: #81a1c1; width: 16px; height: 16px; display: inline-block;"></span>
+            <span style="background: #b48ead; width: 16px; height: 16px; display: inline-block;"></span>
+          </p>
+        </div>
+      </div>
+
+      <!-- Next prompt -->
+      <p style="color: #88c0d0; margin: 24px 0 0;">$ <span style="color: #a3be8c;">ls projects/</span></p>
+      <pre style="color: #d8dee9; margin: 4px 0 0; font-size: 13px; line-height: 1.8;">
+<span style="color: #a3be8c;">drwxr-xr-x</span>  solhawk/           <span style="color: #4c566a;"># Rust × LLM Solidity auditor</span>
+<span style="color: #a3be8c;">drwxr-xr-x</span>  AlphaTrader/       <span style="color: #4c566a;"># Python AI trading agent</span>
+<span style="color: #a3be8c;">drwxr-xr-x</span>  dapps_book/        <span style="color: #4c566a;"># dApps hands-on textbook (TS)</span>
+<span style="color: #a3be8c;">drwxr-xr-x</span>  Central-Data-Hub/  <span style="color: #4c566a;"># NFT bulk data management</span>
+      </pre>
+
+      <p style="color: #88c0d0; margin: 24px 0 0;">$ <span style="color: #a3be8c;">cat ~/.contact</span></p>
+      <pre style="color: #d8dee9; margin: 4px 0 0; font-size: 13px; line-height: 1.8;">
+x      → <a href="https://x.com/cardene777" style="color: #88c0d0;">@cardene777</a>
+zenn   → <a href="https://zenn.dev/heku" style="color: #88c0d0;">zenn.dev/heku</a>
+qiita  → <a href="https://qiita.com/cardene" style="color: #88c0d0;">qiita.com/cardene</a>
+blog   → <a href="https://chaldene.net" style="color: #88c0d0;">chaldene.net</a>
+      </pre>
+
+      <p style="color: #88c0d0; margin: 24px 0 0;">$ <span style="color: #a3be8c;">git log --oneline -5</span></p>
+      <div style="margin: 4px 0 0;">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=cardene777&bg_color=2e3440&color=88c0d0&line=81a1c1&point=a3be8c&area=true&hide_border=true&custom_title=" style="width: 100%; max-width: 800px;" />
+      </div>
+
+      <p style="color: #88c0d0; margin: 24px 0 0;">$ <span style="color: #88c0d0; animation: blink 1s infinite;">█</span></p>
+    </div>
+  </div>
+</div>
+
+<h2>🎯 構成要素 (4 ブロック)</h2>
+<div class="card">
+  <table>
+    <tr><th>#</th><th>コマンド</th><th>内容</th></tr>
+    <tr><td>1</td><td><code>$ neofetch</code></td><td>ASCII ロゴ + 役割・スタック・Now</td></tr>
+    <tr><td>2</td><td><code>$ ls projects/</code></td><td>代表 4 リポを ls 形式 + コメント</td></tr>
+    <tr><td>3</td><td><code>$ cat ~/.contact</code></td><td>ソーシャルリンク</td></tr>
+    <tr><td>4</td><td><code>$ git log</code></td><td>Activity Graph で締め</td></tr>
+  </table>
+  <p style="color: var(--text-2); margin-top: 16px;">特徴: 全ての見出しが Bash プロンプト風。エンジニアにしか刺さらない代わりに、刺さる人には深く刺さる。</p>
+</div>
+
+</body>
+</html>
