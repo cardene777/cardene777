@@ -21,9 +21,8 @@
 <div class="card">
   <div class="card-title">設計思想</div>
   <div class="card-desc">
-    <strong>カード型のレイアウトで「名刺」を渡すように。</strong><br>
-    @leerob / @rauchg / @antfu のような海外トップエンジニアが好む、リンクと最小情報のみで構成。<br>
-    上部に大きなカード型ヘッダー、下部に整理されたメタ情報。
+    <strong>「名刺 1 枚」+ 「名刺と一緒に渡された関連書類」のメタファー。</strong><br>
+    上部にカード型 1 枚、下部に Featured Projects → Stats Panel → Activity Panel → Animation Panel と複数の付録パネルを並べる。
   </div>
 </div>
 
@@ -34,12 +33,16 @@
     <!-- The Card -->
     <div style="max-width: 720px; margin: 0 auto; background: #3b4252; border-radius: 16px; padding: 48px; box-shadow: 0 24px 48px rgba(0,0,0,0.3); border: 1px solid #4c566a;">
 
-      <!-- Top: small label + name -->
       <div style="display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 32px;">
         <div>
           <p style="color: #88c0d0; font-family: 'JetBrains Mono', monospace; font-size: 11px; letter-spacing: 0.3em; margin: 0 0 8px;">SOFTWARE ENGINEER</p>
           <h1 style="color: #eceff4; font-size: 42px; font-weight: 700; margin: 0; line-height: 1; background: none; -webkit-text-fill-color: #eceff4; border: none; padding: 0;">Cardene</h1>
           <p style="color: #d8dee9; font-size: 16px; margin: 8px 0 0;">Smart Contract × AI Builder · Japan</p>
+          <div style="margin: 12px 0 0;">
+            <img src="https://komarev.com/ghpvc/?username=cardene777&label=visits&color=88c0d0&style=flat-square&labelColor=2e3440" />
+            <img src="https://img.shields.io/github/followers/cardene777?label=followers&style=flat-square&color=81a1c1&labelColor=2e3440" />
+            <img src="https://img.shields.io/github/stars/cardene777?label=stars&style=flat-square&color=ebcb8b&labelColor=2e3440" />
+          </div>
         </div>
         <div style="text-align: right;">
           <p style="color: #4c566a; font-family: 'JetBrains Mono', monospace; font-size: 11px; margin: 0;">ID</p>
@@ -47,13 +50,14 @@
         </div>
       </div>
 
-      <!-- Divider -->
+      <!-- Typing as motto on card -->
+      <div style="margin-bottom: 24px;">
+        <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=2800&pause=800&color=88C0D0&background=3b4252&width=600&lines=Smart+Contract+Engineer+%2F+Solidity+%2F+Foundry;AI+Builder+%C2%B7+Next.js+%C2%B7+TypeScript;Building+Web3+%C3%97+AI+products;Always+shipping%2C+always+learning" />
+      </div>
+
       <div style="height: 1px; background: #4c566a; margin: 32px 0;"></div>
 
-      <!-- Two-column meta info -->
       <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 32px; color: #d8dee9; font-size: 14px;">
-
-        <!-- Left: Skills / Stack -->
         <div>
           <p style="color: #88c0d0; font-family: 'JetBrains Mono', monospace; font-size: 11px; letter-spacing: 0.2em; margin: 0 0 12px;">STACK</p>
           <p style="margin: 0; line-height: 2;">
@@ -63,8 +67,6 @@
             FastAPI · PostgreSQL
           </p>
         </div>
-
-        <!-- Right: Currently -->
         <div>
           <p style="color: #88c0d0; font-family: 'JetBrains Mono', monospace; font-size: 11px; letter-spacing: 0.2em; margin: 0 0 12px;">CURRENTLY</p>
           <p style="margin: 0; line-height: 2;">
@@ -76,10 +78,8 @@
         </div>
       </div>
 
-      <!-- Divider -->
       <div style="height: 1px; background: #4c566a; margin: 32px 0;"></div>
 
-      <!-- Bottom: contact -->
       <div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 16px;">
         <p style="color: #88c0d0; font-family: 'JetBrains Mono', monospace; font-size: 11px; letter-spacing: 0.2em; margin: 0;">CONNECT</p>
         <p style="margin: 0; font-size: 14px;">
@@ -90,33 +90,32 @@
           <a href="https://qiita.com/cardene" style="color: #d8dee9; margin: 0 8px;">Qiita</a>
           <span style="color: #4c566a;">·</span>
           <a href="https://chaldene.net" style="color: #d8dee9; margin: 0 8px;">Blog</a>
+          <span style="color: #4c566a;">·</span>
+          <a href="https://skyline.github.com/cardene777/2025" style="color: #d8dee9; margin: 0 8px;">3D ↗</a>
         </p>
       </div>
     </div>
 
-    <!-- Below the card: Featured 4 repos as small cards -->
+    <!-- PANEL 1: Featured Projects -->
     <div style="max-width: 720px; margin: 64px auto 0;">
       <p style="color: #88c0d0; font-family: 'JetBrains Mono', monospace; font-size: 11px; letter-spacing: 0.3em; margin: 0 0 24px; text-align: center;">— FEATURED PROJECTS —</p>
 
       <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 16px;">
-        <a href="https://github.com/cardene777/solhawk" style="background: #3b4252; border-radius: 10px; padding: 20px; text-decoration: none; border: 1px solid #4c566a; transition: border-color 0.2s; display: block;">
+        <a href="https://github.com/cardene777/solhawk" style="background: #3b4252; border-radius: 10px; padding: 20px; text-decoration: none; border: 1px solid #4c566a; display: block;">
           <p style="color: #88c0d0; font-family: 'JetBrains Mono', monospace; font-size: 10px; margin: 0 0 8px;">RUST · ACTIVE</p>
           <p style="color: #eceff4; font-size: 16px; font-weight: 600; margin: 0 0 4px;">solhawk</p>
           <p style="color: #a3be8c; font-size: 12px; margin: 0; line-height: 1.5;">Rust × LLM Solidity auditor with 85 detectors</p>
         </a>
-
         <a href="https://github.com/cardene777/AlphaTrader" style="background: #3b4252; border-radius: 10px; padding: 20px; text-decoration: none; border: 1px solid #4c566a; display: block;">
           <p style="color: #88c0d0; font-family: 'JetBrains Mono', monospace; font-size: 10px; margin: 0 0 8px;">PYTHON · ACTIVE</p>
           <p style="color: #eceff4; font-size: 16px; font-weight: 600; margin: 0 0 4px;">AlphaTrader</p>
           <p style="color: #a3be8c; font-size: 12px; margin: 0; line-height: 1.5;">AI-driven crypto trading agent</p>
         </a>
-
         <a href="https://github.com/cardene777/dapps_book" style="background: #3b4252; border-radius: 10px; padding: 20px; text-decoration: none; border: 1px solid #4c566a; display: block;">
           <p style="color: #88c0d0; font-family: 'JetBrains Mono', monospace; font-size: 10px; margin: 0 0 8px;">TYPESCRIPT · ⭐ 4</p>
           <p style="color: #eceff4; font-size: 16px; font-weight: 600; margin: 0 0 4px;">dapps_book</p>
           <p style="color: #a3be8c; font-size: 12px; margin: 0; line-height: 1.5;">Hands-on textbook for building dApps</p>
         </a>
-
         <a href="https://github.com/cardene777/Central-Data-Hub" style="background: #3b4252; border-radius: 10px; padding: 20px; text-decoration: none; border: 1px solid #4c566a; display: block;">
           <p style="color: #88c0d0; font-family: 'JetBrains Mono', monospace; font-size: 10px; margin: 0 0 8px;">SOLIDITY · ⭐ 2</p>
           <p style="color: #eceff4; font-size: 16px; font-weight: 600; margin: 0 0 4px;">Central-Data-Hub</p>
@@ -125,23 +124,49 @@
       </div>
     </div>
 
-    <!-- Footer: small status line -->
-    <div style="max-width: 720px; margin: 48px auto 0; text-align: center;">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=cardene777&bg_color=2e3440&color=88c0d0&line=81a1c1&point=a3be8c&area=true&hide_border=true&custom_title=" style="opacity: 0.6; max-width: 720px;" />
+    <!-- PANEL 2: Stats -->
+    <div style="max-width: 720px; margin: 64px auto 0;">
+      <p style="color: #88c0d0; font-family: 'JetBrains Mono', monospace; font-size: 11px; letter-spacing: 0.3em; margin: 0 0 24px; text-align: center;">— STATS PANEL —</p>
+      <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 16px;">
+        <img src="https://github-readme-stats.vercel.app/api?username=cardene777&show_icons=true&theme=nord&hide_border=true&include_all_commits=true&count_private=true&bg_color=2e3440" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cardene777&layout=donut&theme=nord&hide_border=true&langs_count=8&bg_color=2e3440" />
+      </div>
+      <div style="margin-top: 16px; text-align: center;">
+        <img src="https://streak-stats.demolab.com?user=cardene777&theme=nord&hide_border=true&background=2e3440" />
+      </div>
+    </div>
+
+    <!-- PANEL 3: Activity -->
+    <div style="max-width: 720px; margin: 64px auto 0;">
+      <p style="color: #88c0d0; font-family: 'JetBrains Mono', monospace; font-size: 11px; letter-spacing: 0.3em; margin: 0 0 24px; text-align: center;">— ACTIVITY PANEL —</p>
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=cardene777&bg_color=2e3440&color=88c0d0&line=81a1c1&point=a3be8c&area=true&hide_border=true&custom_title=Last%20365%20days" style="width: 100%;" />
+      <div style="margin-top: 16px;">
+        <img src="https://raw.githubusercontent.com/yoshi389111/yoshi389111/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D contrib (sample)" style="width: 100%;" />
+        <p style="color: #4c566a; font-size: 11px; margin: 4px 0 0; text-align: right;">※ サンプル表示。実装後は cardene777 の 3D 草に置換</p>
+      </div>
+    </div>
+
+    <!-- PANEL 4: Trophies + Snake -->
+    <div style="max-width: 720px; margin: 64px auto 0;">
+      <p style="color: #88c0d0; font-family: 'JetBrains Mono', monospace; font-size: 11px; letter-spacing: 0.3em; margin: 0 0 24px; text-align: center;">— TROPHY PANEL —</p>
+      <img src="https://github-profile-trophy.vercel.app/?username=cardene777&theme=nord&no-frame=true&row=1&column=7&margin-w=8" style="width: 100%;" />
+      <div style="margin-top: 16px;">
+        <img src="https://raw.githubusercontent.com/cardene777/cardene777/snek/snek-dark.svg" />
+      </div>
+    </div>
+
+    <!-- PANEL 5: Words -->
+    <div style="max-width: 720px; margin: 64px auto 0;">
+      <p style="color: #88c0d0; font-family: 'JetBrains Mono', monospace; font-size: 11px; letter-spacing: 0.3em; margin: 0 0 24px; text-align: center;">— WORDS PANEL —</p>
+      <div style="margin-bottom: 12px;">
+        <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord" />
+      </div>
+      <div>
+        <img src="https://readme-jokes.vercel.app/api?theme=nord&hideBorder=true" />
+      </div>
     </div>
 
   </div>
-</div>
-
-<h2>🎯 構成要素 (3 ブロック)</h2>
-<div class="card">
-  <table>
-    <tr><th>#</th><th>要素</th><th>役割</th></tr>
-    <tr><td>1</td><td>Identity Card</td><td>名前 + ID + STACK + CURRENTLY + CONNECT を 1 枚のカードに</td></tr>
-    <tr><td>2</td><td>Featured Projects</td><td>2x2 のミニカードで代表作 4 つ</td></tr>
-    <tr><td>3</td><td>Activity Graph (薄め)</td><td>フッターとして控えめに 1 本</td></tr>
-  </table>
-  <p style="color: var(--text-2); margin-top: 16px;">特徴: 物理的な「名刺」を渡されたような印象。情報密度と余白のバランスが取れている。</p>
 </div>
 
 </body>
