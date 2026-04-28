@@ -1,0 +1,316 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>新要素カタログ - Cardene Profile Redesign</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<nav>
+  <a href="index.html">🏠 比較</a>
+  <a href="design-a-tokyo-night.html">🎨 Tokyo Night</a>
+  <a href="design-b-catppuccin.html">🌃 Catppuccin</a>
+  <a href="design-c-dracula.html">🧛 Dracula</a>
+  <a href="design-d-cyberpunk.html">⚡ Cyberpunk</a>
+  <a href="design-e-nord.html">❄️ Nord</a>
+  <a href="design-f-aurora.html">🌌 Aurora</a>
+  <a href="design-g-sunset.html">🌅 Sunset</a>
+  <a href="design-h-mono.html">⬛ Mono Minimal</a>
+  <a href="elements.html" class="active">✨ 新要素カタログ</a>
+  <a href="components.html">🧩 部品比較</a>
+</nav>
+
+<h1>✨ 新要素カタログ</h1>
+<p>言語アイコンの代わりに導入候補の "おしゃれでいけてる" 要素を一覧化。気に入ったものを選んで採用案にミックスします。</p>
+
+<h2>🌆 Animated Header</h2>
+<div class="element-grid">
+
+  <div class="element-card">
+    <h4>1. Capsule Render - Waving Animation <span class="tag stable">Stable</span></h4>
+    <p style="color: var(--text-2); font-size: 13px;">グラデ波形が動く header。最も人気で安定。</p>
+    <div class="preview center">
+      <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Cardene&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=Smart%20Contract%20Engineer%20%C2%B7%20AI%20Builder&descAlignY=58&descSize=18&animation=twinkling" />
+    </div>
+  </div>
+
+  <div class="element-card">
+    <h4>2. Capsule Render - Venom Neon <span class="tag stable">Stable</span></h4>
+    <p style="color: var(--text-2); font-size: 13px;">ネオン系 venom スタイル。Cyberpunk 案で使用。</p>
+    <div class="preview center" style="background: black;">
+      <img src="https://capsule-render.vercel.app/api?type=venom&color=0:00DBDE,100:FC00FF&height=220&section=header&text=Cardene&fontSize=80&fontColor=ffffff&fontAlignY=38&desc=%E2%9A%A1%20Web3%20%C3%97%20AI%20Builder%20%E2%9A%A1&descAlignY=60&descSize=18" />
+    </div>
+  </div>
+
+  <div class="element-card">
+    <h4>3. Capsule Render - Soft Aurora <span class="tag stable">Stable</span></h4>
+    <p style="color: var(--text-2); font-size: 13px;">柔らかいオーロラ系グラデ。Aurora 案で使用。</p>
+    <div class="preview center" style="background: #0f0f23;">
+      <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=2,12,30&height=200&section=header&text=Cardene&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=Smart%20Contract%20%C3%97%20AI%20Builder&descAlignY=58&descSize=18" />
+    </div>
+  </div>
+
+  <div class="element-card">
+    <h4>4. Animated Pixel Banner GIF <span class="tag stable">Stable</span></h4>
+    <p style="color: var(--text-2); font-size: 13px;">vapor / glitch 系の動的バナー。retro 雰囲気。</p>
+    <div class="preview center" style="background: black;">
+      <img src="https://capsule-render.vercel.app/api?type=shark&color=gradient&customColorList=24,16,12&height=180&section=header&text=&fontSize=0&animation=fadeIn" style="max-width: 400px;" />
+    </div>
+  </div>
+
+</div>
+
+<h2>📊 3D Visualization</h2>
+<div class="element-grid">
+
+  <div class="element-card">
+    <h4>5. GitHub Skyline (3D Contributions) <span class="tag stable">External Link</span></h4>
+    <p style="color: var(--text-2); font-size: 13px;">年間 contributions を 3D 都市風に表示。https://skyline.github.com/cardene777/2025</p>
+    <div class="preview center">
+      <a href="https://skyline.github.com/cardene777/2025" target="_blank">
+        <img src="https://raw.githubusercontent.com/github/feedback/main/discussion-images/2024-skyline-banner.png" style="max-width: 100%; opacity: 0.7;" alt="Skyline (リンク先で 3D 表示)" />
+        <p style="color: var(--accent);">→ クリックで 3D Skyline を見る</p>
+      </a>
+    </div>
+  </div>
+
+  <div class="element-card">
+    <h4>6. 3D Profile Contrib (3 viewing modes) <span class="tag stable">Stable</span></h4>
+    <p style="color: var(--text-2); font-size: 13px;">草グラフを 3D で表示。GitHub Actions で自動生成。</p>
+    <div class="preview center">
+      <img src="https://raw.githubusercontent.com/yoshi389111/yoshi389111/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contrib sample (yoshi389111)" />
+      <p style="color: var(--text-2); font-size: 11px;">※ 実装後は cardene777 の草で表示される</p>
+    </div>
+  </div>
+
+</div>
+
+<h2>📈 Stats / Activity (新世代)</h2>
+<div class="element-grid">
+
+  <div class="element-card">
+    <h4>7. Activity Graph (365 days) <span class="tag stable">Stable</span></h4>
+    <p style="color: var(--text-2); font-size: 13px;">365 日のコミット活動をエリアグラフ化。</p>
+    <div class="preview center">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=cardene777&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" />
+    </div>
+  </div>
+
+  <div class="element-card">
+    <h4>8. Streak Stats (Heroku 後継) <span class="tag stable">Stable</span></h4>
+    <p style="color: var(--text-2); font-size: 13px;">streak-stats.demolab.com に移行。連続コミット日数。</p>
+    <div class="preview center">
+      <img src="https://streak-stats.demolab.com?user=cardene777&theme=tokyonight&hide_border=true" />
+    </div>
+  </div>
+
+  <div class="element-card">
+    <h4>9. Productive Time (時間帯ヒートマップ) <span class="tag stable">Stable</span></h4>
+    <p style="color: var(--text-2); font-size: 13px;">いつコミットが多いかを可視化。プロフィールに個性が出る。</p>
+    <div class="preview center">
+      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=cardene777&theme=tokyonight&hide_border=true&layout=compact" />
+      <p style="color: var(--text-2); font-size: 11px;">※ Wakatime 連携必要 (オプション)</p>
+    </div>
+  </div>
+
+  <div class="element-card">
+    <h4>10. Profile Summary Cards (self-host) <span class="tag stable">Stable</span></h4>
+    <p style="color: var(--text-2); font-size: 13px;">既設の Actions で生成中。stats / langs / commits / repos / productive を 5 枚に分割。</p>
+    <div class="preview center">
+      <img src="https://raw.githubusercontent.com/cardene777/cardene777/main/profile-summary-card-output/nord_dark/0-profile-details.svg" style="max-width: 320px;" />
+      <img src="https://raw.githubusercontent.com/cardene777/cardene777/main/profile-summary-card-output/nord_dark/4-productive-time.svg" style="max-width: 320px;" />
+    </div>
+  </div>
+
+</div>
+
+<h2>🏆 Achievements / Trophies</h2>
+<div class="element-grid">
+
+  <div class="element-card">
+    <h4>11. Profile Trophy (Aurora theme) <span class="tag stable">Stable</span></h4>
+    <p style="color: var(--text-2); font-size: 13px;">trophy 7 個を 1 行配置。テーマで色味が変わる。</p>
+    <div class="preview center">
+      <img src="https://github-profile-trophy.vercel.app/?username=cardene777&theme=algolia&no-frame=true&row=1&column=7&margin-w=15" />
+    </div>
+  </div>
+
+  <div class="element-card">
+    <h4>12. Profile Trophy (Discord theme) <span class="tag stable">Stable</span></h4>
+    <p style="color: var(--text-2); font-size: 13px;">紫×ブルー基調の trophy。</p>
+    <div class="preview center">
+      <img src="https://github-profile-trophy.vercel.app/?username=cardene777&theme=discord&no-frame=true&row=1&column=7&margin-w=15" />
+    </div>
+  </div>
+
+  <div class="element-card">
+    <h4>13. Holopin Badges <span class="tag beta">Optional</span></h4>
+    <p style="color: var(--text-2); font-size: 13px;">https://holopin.io で取得した 3D ホログラム badge。Hacktoberfest 等で配布。</p>
+    <div class="preview center">
+      <a href="https://holopin.io/@cardene777" target="_blank">
+        <img src="https://holopin.me/cardene777" alt="Holopin badges" />
+      </a>
+    </div>
+  </div>
+
+  <div class="element-card">
+    <h4>14. GitHub Stars Counter Badge <span class="tag stable">Stable</span></h4>
+    <p style="color: var(--text-2); font-size: 13px;">合計 star 数を動的バッジ化。</p>
+    <div class="preview center">
+      <img src="https://img.shields.io/github/stars/cardene777?affiliations=OWNER&style=for-the-badge&logo=github&logoColor=white&color=f59e0b&labelColor=18181b" />
+      <img src="https://img.shields.io/github/followers/cardene777?style=for-the-badge&logo=github&logoColor=white&color=8b5cf6&labelColor=18181b" />
+    </div>
+  </div>
+
+</div>
+
+<h2>🎵 Live / Dynamic</h2>
+<div class="element-grid">
+
+  <div class="element-card">
+    <h4>15. Spotify Now Playing <span class="tag beta">Setup Required</span></h4>
+    <p style="color: var(--text-2); font-size: 13px;">https://github.com/kittinan/spotify-github-profile を Vercel デプロイすると今聴いてる曲を表示。</p>
+    <div class="preview center" style="background: #191414;">
+      <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31fz4mgp4u3hq2bhsdwhiqfp4p4q&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" alt="Spotify sample" />
+      <p style="color: var(--text-2); font-size: 11px;">※ サンプル表示。要 Spotify OAuth + Vercel deploy</p>
+    </div>
+  </div>
+
+  <div class="element-card">
+    <h4>16. Wakatime Coding Stats <span class="tag beta">Setup Required</span></h4>
+    <p style="color: var(--text-2); font-size: 13px;">https://wakatime.com で計測したコーディング時間・言語使用率を表示。</p>
+    <div class="preview center">
+      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=anuraghazra&theme=tokyonight&hide_border=true" alt="Wakatime sample" />
+      <p style="color: var(--text-2); font-size: 11px;">※ サンプル表示。要 Wakatime API key</p>
+    </div>
+  </div>
+
+  <div class="element-card">
+    <h4>17. Quote of the Day <span class="tag stable">Stable</span></h4>
+    <p style="color: var(--text-2); font-size: 13px;">毎日変わる開発者名言を SVG 表示。</p>
+    <div class="preview center">
+      <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+    </div>
+  </div>
+
+  <div class="element-card">
+    <h4>18. Random Joke <span class="tag stable">Stable</span></h4>
+    <p style="color: var(--text-2); font-size: 13px;">毎日変わるプログラミングジョーク。会話のきっかけに。</p>
+    <div class="preview center">
+      <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder=true" />
+    </div>
+  </div>
+
+</div>
+
+<h2>📌 Pinned Repositories</h2>
+<div class="element-grid">
+
+  <div class="element-card">
+    <h4>19. Repo Pin Card <span class="tag stable">Stable</span></h4>
+    <p style="color: var(--text-2); font-size: 13px;">お気に入りリポを動的カードで強調表示。</p>
+    <div class="preview center">
+      <a href="https://github.com/cardene777/cardene777">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=cardene777&repo=cardene777&theme=tokyonight&hide_border=true" />
+      </a>
+    </div>
+  </div>
+
+  <div class="element-card">
+    <h4>20. Top Repos by Stars <span class="tag beta">Optional</span></h4>
+    <p style="color: var(--text-2); font-size: 13px;">star 数順にリポを表示する experimental ウィジェット。</p>
+    <div class="preview center">
+      <img src="https://img.shields.io/badge/Top%20Repos-Auto%20Generated-58a6ff?style=for-the-badge" />
+      <p style="color: var(--text-2); font-size: 11px;">※ GitHub Actions 経由で自動更新</p>
+    </div>
+  </div>
+
+</div>
+
+<h2>🐍 Animation</h2>
+<div class="element-grid">
+
+  <div class="element-card">
+    <h4>21. Snake Animation (既設維持) <span class="tag stable">Stable</span></h4>
+    <p style="color: var(--text-2); font-size: 13px;">既設の snk Action で日次更新中。そのまま維持。</p>
+    <div class="preview center">
+      <img src="https://raw.githubusercontent.com/cardene777/cardene777/snek/snek-dark.svg" />
+    </div>
+  </div>
+
+  <div class="element-card">
+    <h4>22. Typing Animation (キャッチコピー) <span class="tag stable">Stable</span></h4>
+    <p style="color: var(--text-2); font-size: 13px;">タイピング風アニメ。Smart Contract / AI Builder 路線。</p>
+    <div class="preview center">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=800&color=7AA2F7&center=true&vCenter=true&width=720&lines=Smart+Contract+Engineer+%2F+Solidity+%2F+Foundry;AI+Builder+%C2%B7+Next.js+%C2%B7+TypeScript;Building+Web3+%C3%97+AI+products;Always+shipping%2C+always+learning" />
+    </div>
+  </div>
+
+</div>
+
+<h2>🌊 Footer</h2>
+<div class="element-grid">
+
+  <div class="element-card">
+    <h4>23. Capsule Footer Wave <span class="tag stable">Stable</span></h4>
+    <p style="color: var(--text-2); font-size: 13px;">グラデ波形フッターで締める。プロフィールに統一感。</p>
+    <div class="preview center">
+      <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer&animation=twinkling" />
+    </div>
+  </div>
+
+</div>
+
+<h2>🔢 Counter / Visitor Badge</h2>
+<div class="element-grid">
+
+  <div class="element-card">
+    <h4>24. Profile Visitor Counter <span class="tag stable">Stable</span></h4>
+    <p style="color: var(--text-2); font-size: 13px;">プロフィール訪問者数。シンプルバッジ。</p>
+    <div class="preview center">
+      <img src="https://komarev.com/ghpvc/?username=cardene777&label=Profile%20views&color=blueviolet&style=for-the-badge" />
+    </div>
+  </div>
+
+  <div class="element-card">
+    <h4>25. Animated Followers Badge <span class="tag stable">Stable</span></h4>
+    <p style="color: var(--text-2); font-size: 13px;">フォロワー・スター数を for-the-badge スタイルで強調。</p>
+    <div class="preview center">
+      <img src="https://img.shields.io/github/followers/cardene777?label=Followers&style=for-the-badge&color=8b5cf6&labelColor=18181b" />
+      <img src="https://img.shields.io/github/stars/cardene777?label=Total%20Stars&style=for-the-badge&color=f59e0b&labelColor=18181b" />
+    </div>
+  </div>
+
+</div>
+
+<h2>📋 採用候補マトリクス</h2>
+<div class="card">
+  <table>
+    <thead>
+      <tr><th>要素</th><th>セットアップ</th><th>更新頻度</th><th>おしゃれ度</th><th>推奨</th></tr>
+    </thead>
+    <tbody>
+      <tr><td>Capsule Header (Waving)</td><td>URL のみ</td><td>—</td><td>★★★★★</td><td>✅ 必須</td></tr>
+      <tr><td>Typing SVG</td><td>URL のみ</td><td>—</td><td>★★★★</td><td>✅ 必須</td></tr>
+      <tr><td>Activity Graph</td><td>URL のみ</td><td>動的</td><td>★★★★★</td><td>✅ 必須</td></tr>
+      <tr><td>Streak Stats</td><td>URL のみ</td><td>動的</td><td>★★★★</td><td>✅ 必須</td></tr>
+      <tr><td>Stats + Top Langs</td><td>URL のみ</td><td>動的</td><td>★★★★</td><td>✅ 必須</td></tr>
+      <tr><td>3D Contrib</td><td>Actions 設定</td><td>日次</td><td>★★★★★</td><td>⭐ 強推奨</td></tr>
+      <tr><td>Profile Trophy</td><td>URL のみ</td><td>動的</td><td>★★★★</td><td>✅ 採用</td></tr>
+      <tr><td>Quote of the Day</td><td>URL のみ</td><td>日次</td><td>★★★</td><td>👍 選択</td></tr>
+      <tr><td>Snake Animation</td><td>既設</td><td>日次</td><td>★★★★★</td><td>✅ 維持</td></tr>
+      <tr><td>Footer Wave</td><td>URL のみ</td><td>—</td><td>★★★★</td><td>✅ 採用</td></tr>
+      <tr><td>Star/Follower Badge</td><td>URL のみ</td><td>動的</td><td>★★★</td><td>👍 選択</td></tr>
+      <tr><td>Spotify Now Playing</td><td>Vercel deploy</td><td>リアルタイム</td><td>★★★★★</td><td>🌟 個性派</td></tr>
+      <tr><td>Wakatime</td><td>API key</td><td>動的</td><td>★★★★</td><td>🌟 ガチ勢</td></tr>
+      <tr><td>Holopin</td><td>外部参加</td><td>—</td><td>★★★</td><td>🌟 OSS 活動者</td></tr>
+      <tr><td>Repo Pin Card</td><td>URL のみ</td><td>動的</td><td>★★★</td><td>👍 主要 repo に</td></tr>
+      <tr><td>Random Joke</td><td>URL のみ</td><td>日次</td><td>★★</td><td>⏸ 好み次第</td></tr>
+    </tbody>
+  </table>
+</div>
+
+</body>
+</html>
