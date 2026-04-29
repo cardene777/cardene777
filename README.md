@@ -56,8 +56,6 @@ Location    : Japan
 Languages   : solidity · rust · typescript · python
 Frameworks  : foundry · next.js · fastapi
 Editor      : claude-code + cursor + ghostty
-Currently   : building solhawk
-Repos       : 71 public · 2026 active
 ```
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=1&pause=99999&color=4ADE80&width=480&height=28&lines=%24+cat+~%2F.contact" alt="contact" />
