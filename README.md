@@ -1,137 +1,146 @@
-
 <div align="center">
-  <h1>🦔 Cardene 🦔</h1>
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=cardene777&label=Profile%20views&color=0e75b6&style=flat" alt="cardene777" />
-  </p>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2800&pause=900&color=4ADE80&center=true&vCenter=true&width=720&lines=%24+whoami;%3E+cardene777+%2F%2F+Full-Stack+%26+Web3+Engineer;%3E+Building+with+TypeScript%2C+Solidity%2C+Python;%3E+Always+shipping.+Always+learning." alt="typing" />
+
+<img src="https://komarev.com/ghpvc/?username=cardene777&label=VISITORS&color=4ade80&style=for-the-badge" alt="visitors" />
+<img src="https://img.shields.io/github/followers/cardene777?label=FOLLOWERS&style=for-the-badge&color=22c55e&labelColor=000000" alt="followers" />
+<img src="https://img.shields.io/github/stars/cardene777?label=STARS&style=for-the-badge&color=fbbf24&labelColor=000000" alt="stars" />
+
 </div>
 
-<p align="center">
-<img src="https://user-images.githubusercontent.com/61857866/228717214-f87e40b0-3a7f-42e5-9129-c8fbf31fa96a.gif" alt="example" width="300" />
-</p>
+---
+
+## $ cat .role
+
+```bash
+┌──────────────────────────────────────────────────────────────┐
+│ NAME       cardene777                                        │
+│ ROLE       Full-Stack Engineer / Web3 Developer              │
+│ LOCATION   Tokyo, Japan                                      │
+│ STACK      TypeScript · Solidity · Python · Next.js          │
+│ FOCUS      DApps · Smart Contracts · AI/LLM Integration      │
+│ STATUS     Building, learning, shipping.                     │
+└──────────────────────────────────────────────────────────────┘
+```
+
+---
+
+## $ neofetch --profile
 
 <div align="center">
-  <p><img height="160px" src="https://github-readme-stats.vercel.app/api?username=cardene777&show_icons=true&theme=gruvbox" /> <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cardene777&layout=compact&theme=gruvbox" /></p>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cardene777&show_icons=true&hide_border=true&title_color=4ade80&icon_color=22c55e&text_color=d1fae5&bg_color=000000&include_all_commits=true&count_private=true" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cardene777&layout=compact&hide_border=true&title_color=4ade80&text_color=d1fae5&bg_color=000000&langs_count=8" />
+</a>
 </div>
 
+---
+
+## $ stat --commit-streak
+
 <div align="center">
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cardene777&theme=gruvbox" alt="cardene777" /></p>
+<a href="https://git.io/streak-stats">
+  <img src="https://streak-stats.demolab.com?user=cardene777&theme=black-ice&hide_border=true&background=000000&stroke=4ade80&ring=4ade80&fire=fbbf24&currStreakLabel=4ade80&sideLabels=22c55e&dates=86efac" alt="streak" />
+</a>
 </div>
 
-<hr />
+---
 
-![snek go brr](https://raw.githubusercontent.com/cardene777/cardene777/snek/snek-light.svg#gh-light-mode-only)
-![snek go brr](https://raw.githubusercontent.com/cardene777/cardene777/snek/snek-dark.svg#gh-dark-mode-only)
+## $ ls projects/
 
-<hr />
-
-<div align="center">
-  <h2>🏆 Trophy</h2>
-</div>
-  
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cardene777&theme=onedark" alt="cardene777" /></a></p>
-
-<div align="center">
-  <h2>🌏 Languages and Tools</h2>
-</div>
-
-<p align="center">
-  <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
-  </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  </a> 
-  <a href="https://golang.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> 
-  </a> 
-  <a href="https://graphql.org" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> 
-  </a> 
-  <a href="https://heroku.com" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> 
-  </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" /> 
-  </a> 
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-  </a> 
-  <a href="https://opencv.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a> 
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="python" width="40" height="40" /> 
-  </a> 
-  <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> 
-  </a> 
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
-  </a> 
-  <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> 
-  </a> </p>
+```bash
+total 4
+drwxr-xr-x  cardene  staff  Web3      borderless-contract/
+drwxr-xr-x  cardene  staff  Tooling   claude-config/
+drwxr-xr-x  cardene  staff  AI/LLM    ai-experiments/
+drwxr-xr-x  cardene  staff  Web/Blog  chaldene-net/
+```
 
 <div align="center">
-  <h2>💌 Comtact Me</h2>
-</div> 
-
-<p align="center">
-  <a href="https://twitter.com/cardene777" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="cardene777" height="30" width="40" /></a>
-  <a href="https://chaldene.net/feed" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://chaldene.net/feed" height="30" width="40" /></a>
-</p>
-
-<div align="center">
-  <h2>🌵 Qiita</h2>
+<a href="https://github.com/cardene777">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=cardene777&repo=cardene777&hide_border=true&title_color=4ade80&icon_color=22c55e&text_color=d1fae5&bg_color=000000" />
+</a>
 </div>
 
-<p align="center">
-  <a href="https://qiita.com/cardene" target="_blank">
-    <img src="https://badgen.org/img/qiita/cardene/contributions?style=for-the-badge" alt="cardene likes" />
-  </a>
-  <a href="https://qiita.com/cardene" target="_blank">
-    <img src="https://badgen.org/img/qiita/cardene/articles?style=for-the-badge" alt="cardene likes" />
-  </a>
-</p>
+---
+
+## $ cat ~/.contact
+
+```bash
+┌─────────────────────────────────────────────────────────┐
+│ Twitter   →  https://twitter.com/cardene777             │
+│ Blog      →  https://chaldene.net                       │
+│ Qiita     →  https://qiita.com/cardene                  │
+│ Zenn      →  https://zenn.dev/heku                      │
+└─────────────────────────────────────────────────────────┘
+```
 
 <div align="center">
-  <h2>📘 Zenn</h2>
+
+[![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=4ade80)](https://twitter.com/cardene777)
+[![Blog](https://img.shields.io/badge/Blog-000000?style=for-the-badge&logo=hashnode&logoColor=4ade80)](https://chaldene.net)
+[![Qiita](https://img.shields.io/badge/Qiita-000000?style=for-the-badge&logo=qiita&logoColor=4ade80)](https://qiita.com/cardene)
+[![Zenn](https://img.shields.io/badge/Zenn-000000?style=for-the-badge&logo=zenn&logoColor=4ade80)](https://zenn.dev/heku)
+
 </div>
 
-<p align="center">
-  <a href="https://zenn.dev/heku" target="_blank">
-    <img src="https://badgen.org/img/zenn/heku/likes?style=for-the-badge" alt="cardene likes" />
-  </a>
-  <a href="https://zenn.dev/heku" target="_blank">
-    <img src="https://badgen.org/img/zenn/heku/articles?style=for-the-badge" alt="cardene likes" />
-  </a>
-</p>
+---
+
+## $ stats --activity
 
 <div align="center">
-  <h2>🕊 Twitter</h2>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cardene777&theme=react-dark&bg_color=000000&color=4ade80&line=22c55e&point=fbbf24&hide_border=true&area=true&area_color=22c55e" />
+</a>
 </div>
 
-<p align="center"> <a href="https://twitter.com/cardene777" target="_blank"><img src="https://img.shields.io/twitter/follow/cardene777?logo=twitter&style=for-the-badge" alt="cardene777" /></a> </p>
+---
 
+## $ git log --recent
+
+<div align="center">
+<a href="https://github.com/Platane/snk">
+  <img alt="snake animation" src="https://raw.githubusercontent.com/cardene777/cardene777/snek/snek-dark.svg" />
+</a>
+</div>
+
+---
+
+## $ render --3d
+
+<div align="center">
+<img src="./profile-3d-contrib/profile-night-green.svg" alt="3d contrib" />
+</div>
+
+---
+
+## $ awards --list
+
+<div align="center">
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=cardene777&no-bg=true&no-frame=true&title_color=4ade80&text_color=d1fae5&column=7&margin-w=8&margin-h=8" />
+</a>
+</div>
+
+---
+
+## $ joke --random
+
+<div align="center">
+<img src="https://readme-jokes.vercel.app/api?theme=dark&borderColor=4ade80&textColor=d1fae5&bgColor=000000&qColor=fbbf24&aColor=4ade80&hideBorder=false" alt="joke" />
+</div>
+
+---
+
+<div align="center">
+
+```bash
+$ exit
+> Thanks for visiting. Happy hacking. _
+```
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:16302a,100:4ade80&height=80&section=footer&reversal=true" />
+
+</div>

@@ -1,36 +1,26 @@
-
-
 name: snek go brr
 
 on:
-  # run on every push to main branch
   push:
     branches:
-    - main
-
-  # run automatically once every day
+      - main
   schedule:
     - cron: "0 0 * * *"
-
-  # allows to run job manually
   workflow_dispatch:
-
 
 jobs:
   generate:
     runs-on: ubuntu-latest
     timeout-minutes: 10
     steps:
-      # generates a snake game from a github user (<github_user_name>) contributions graph, output a svg animation at <svg_out_path>
       - name: snek vector born
         uses: Platane/snk/svg-only@v2
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            buidl/snek-light.svg?palette=github-light&color_snake=#00cccc
-            buidl/snek-dark.svg?palette=github-dark&color_snake=#00cccc&color_dots=#401850,#6e2f74,#9e5ca3,#357450,#274850,
-      # push the content of <build_dir> to a branch
-      # content will be available at https://raw.githubusercontent.com/<github_user>/<repository>/<target_branch>/<file> as a github page
+            buidl/snek-light.svg?palette=github-light&color_snake=#22c55e&color_dots=#16302a,#22c55e,#4ade80,#86efac,#d1fae5
+            buidl/snek-dark.svg?color_snake=#4ade80&color_dots=#000000,#16302a,#22c55e,#4ade80,#86efac
+
       - name: snek slither to page
         uses: crazy-max/ghaction-github-pages@v3
         with:
