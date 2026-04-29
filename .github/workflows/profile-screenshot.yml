@@ -30,13 +30,16 @@ jobs:
       - name: Install Chromium
         run: npx playwright install --with-deps chromium
 
-      - name: Take profile screenshot
+      - name: Install ffmpeg
+        run: sudo apt-get update && sudo apt-get install -y ffmpeg
+
+      - name: Record profile video
         run: node scripts/screenshot-profile.mjs
 
       - name: Commit & Push if changed
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add assets/profile-terminal.png
-          git diff --quiet --staged || git commit -m ":camera_flash: Refresh profile-terminal.png"
+          git add assets/profile-terminal.mp4 assets/profile-terminal.gif
+          git diff --quiet --staged || git commit -m ":camera_flash: Refresh profile recording"
           git push
