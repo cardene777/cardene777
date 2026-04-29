@@ -153,14 +153,40 @@ blog     → <a href="https://chaldene.net">chaldene.net</a>
 </div>
 
 <!--START_SECTION:waka-->
-<!-- WakaTime stats are updated daily by .github/workflows/waka-readme.yml -->
-<!-- Setup required (one-time):
-     1. Settings → Secrets → Actions に追加:
-        - WAKATIME_API_KEY (https://wakatime.com/settings/account)
-        - GH_TOKEN (Settings > Developer Settings > PAT、scope: repo + user)
-     2. Actions タブで "Waka Readme" を Run workflow
-     3. このコメント間に統計が自動挿入される
--->
+![Code Time](http://img.shields.io/badge/Code%20Time-115%20hrs%2049%20mins-blue?style=flat)
+
+**🐱 My GitHub Data** 
+
+> 📦 2.2 MB Used in GitHub's Storage 
+ > 
+> 🏆 8,559 Contributions in the Year 2026
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 71 Public Repositories 
+ > 
+> 🔑 75 Private Repositories 
+ > 
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Tokyo
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+
+ Last Updated on 29/04/2026 06:36:51 UTC
 <!--END_SECTION:waka-->
 
 <br />
