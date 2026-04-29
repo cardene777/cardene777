@@ -1,1 +1,0 @@
-[parallel-review] tier=heavy category=CODE worker_set=codex-mcp-adversarial,cr-cli,generator-verifier (files=265 +933 -405)
