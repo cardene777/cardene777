@@ -71,20 +71,6 @@ blog     → <a href="https://chaldene.net">chaldene.net</a>
 
 <br />
 
-<!-- ═══════════ 2. JOKE (旧 ls projects 位置) ═══════════ -->
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=1&pause=99999&color=4ADE80&width=720&height=28&lines=%24+joke+--random" alt="joke" />
-
-<br />
-
-<img src="https://readme-jokes.vercel.app/api?theme=algolia&hideBorder=true" alt="joke" />
-
-</div>
-
-<br />
-
 <!-- ═══════════ 3. STATS ═══════════ -->
 
 <div align="center">
