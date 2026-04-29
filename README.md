@@ -140,7 +140,7 @@ blog     → <a href="https://chaldene.net">chaldene.net</a>
 
 <br />
 
-<img src="https://github-profile-trophy.vercel.app/?username=cardene777&theme=onedark&no-frame=true&no-bg=true&row=2&column=4&margin-w=15&margin-h=15&rank=SECRET,SSS,SS,S,AAA,AA,A,B" alt="trophy" />
+<img src="https://github-profile-trophy.vercel.app/?username=cardene777&theme=onedark&no-frame=true&no-bg=true&row=3&column=6&margin-w=10&margin-h=10" alt="trophy" />
 
 </div>
 
