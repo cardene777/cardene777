@@ -21,7 +21,9 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
-          SETTING_JSON: profile-3d-contrib/settings.json
+          # SETTING_JSON は指定しない (全 11 種類の SVG が自動生成される)
+          # profile-night-green.svg / profile-green-animate.svg 等が
+          # 全部出るので README から必要なものを参照するだけで良い
 
       - name: Commit & Push
         run: |
