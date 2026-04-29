@@ -1,146 +1,178 @@
+<!--
+  cardene777 — terminal profile (11 要素 / 7 ブロック構成)
+  ユーザー指摘:
+  - render --3d を単独要素に
+  - ls projects/ を削除し、その位置に joke を移動
+  - Stats が片方表示されてない (table → div + 直接並べに変更)
+  - 全体 OK の方向性
+-->
+
+<br />
+
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2800&pause=900&color=4ADE80&center=true&vCenter=true&width=720&lines=%24+whoami;%3E+cardene777+%2F%2F+Full-Stack+%26+Web3+Engineer;%3E+Building+with+TypeScript%2C+Solidity%2C+Python;%3E+Always+shipping.+Always+learning." alt="typing" />
-
-<img src="https://komarev.com/ghpvc/?username=cardene777&label=VISITORS&color=4ade80&style=for-the-badge" alt="visitors" />
-<img src="https://img.shields.io/github/followers/cardene777?label=FOLLOWERS&style=for-the-badge&color=22c55e&labelColor=000000" alt="followers" />
-<img src="https://img.shields.io/github/stars/cardene777?label=STARS&style=for-the-badge&color=fbbf24&labelColor=000000" alt="stars" />
+<img src="./assets/logo-cardene.svg" alt="cardene" />
 
 </div>
 
----
+<br />
 
-## $ cat .role
+<!-- ═══════════ 1. IDENTITY ═══════════ -->
 
-```bash
-┌──────────────────────────────────────────────────────────────┐
-│ NAME       cardene777                                        │
-│ ROLE       Full-Stack Engineer / Web3 Developer              │
-│ LOCATION   Tokyo, Japan                                      │
-│ STACK      TypeScript · Solidity · Python · Next.js          │
-│ FOCUS      DApps · Smart Contracts · AI/LLM Integration      │
-│ STATUS     Building, learning, shipping.                     │
-└──────────────────────────────────────────────────────────────┘
+<table>
+<tr>
+<td width="38%" align="center" valign="middle">
+
+<img src="https://user-images.githubusercontent.com/61857866/228717214-f87e40b0-3a7f-42e5-9129-c8fbf31fa96a.gif" alt="hedgehog" width="240" />
+
+<br /><br />
+
+<img src="https://komarev.com/ghpvc/?username=cardene777&label=visits&color=4ade80&style=flat-square&labelColor=000000" alt="visits" />
+<br />
+<img src="https://img.shields.io/github/followers/cardene777?label=followers&style=flat-square&color=4ade80&labelColor=000000" alt="followers" />
+<br />
+<img src="https://img.shields.io/github/stars/cardene777?label=stars&style=flat-square&color=4ade80&labelColor=000000" alt="stars" />
+
+</td>
+<td width="62%" valign="top">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=1&pause=99999&color=4ADE80&width=480&height=28&lines=%24+whoami" alt="whoami" />
+
+```
+cardene
 ```
 
----
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=1&pause=99999&color=4ADE80&width=480&height=28&lines=%24+cat+.role" alt="cat role" />
 
-## $ neofetch --profile
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=2800&pause=900&color=4ADE80&width=480&height=80&lines=Smart+Contract+Engineer+%2F+Solidity+%2F+Foundry;AI+Builder+%C2%B7+Next.js+%C2%B7+TypeScript;Building+Web3+%C3%97+AI+products;Always+shipping%2C+always+learning" alt="role" />
 
-<div align="center">
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cardene777&show_icons=true&hide_border=true&title_color=4ade80&icon_color=22c55e&text_color=d1fae5&bg_color=000000&include_all_commits=true&count_private=true" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cardene777&layout=compact&hide_border=true&title_color=4ade80&text_color=d1fae5&bg_color=000000&langs_count=8" />
-</a>
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=1&pause=99999&color=4ADE80&width=480&height=28&lines=%24+neofetch" alt="neofetch" />
 
----
-
-## $ stat --commit-streak
-
-<div align="center">
-<a href="https://git.io/streak-stats">
-  <img src="https://streak-stats.demolab.com?user=cardene777&theme=black-ice&hide_border=true&background=000000&stroke=4ade80&ring=4ade80&fire=fbbf24&currStreakLabel=4ade80&sideLabels=22c55e&dates=86efac" alt="streak" />
-</a>
-</div>
-
----
-
-## $ ls projects/
-
-```bash
-total 4
-drwxr-xr-x  cardene  staff  Web3      borderless-contract/
-drwxr-xr-x  cardene  staff  Tooling   claude-config/
-drwxr-xr-x  cardene  staff  AI/LLM    ai-experiments/
-drwxr-xr-x  cardene  staff  Web/Blog  chaldene-net/
+```text
+Role        : Smart Contract Engineer × AI Builder
+Location    : Japan
+Languages   : solidity · rust · typescript · python
+Frameworks  : foundry · next.js · fastapi
+Editor      : claude-code + cursor + ghostty
 ```
 
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=1&pause=99999&color=4ADE80&width=480&height=28&lines=%24+cat+~%2F.contact" alt="contact" />
+
+<pre>
+x        → <a href="https://x.com/cardene777">@cardene777</a>
+zenn     → <a href="https://zenn.dev/heku">zenn.dev/heku</a>
+qiita    → <a href="https://qiita.com/cardene">qiita.com/cardene</a>
+blog     → <a href="https://chaldene.net">chaldene.net</a>
+</pre>
+
+</td>
+</tr>
+</table>
+
+<br />
+
+<!-- ═══════════ 2. JOKE (旧 ls projects 位置) ═══════════ -->
+
 <div align="center">
-<a href="https://github.com/cardene777">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=cardene777&repo=cardene777&hide_border=true&title_color=4ade80&icon_color=22c55e&text_color=d1fae5&bg_color=000000" />
-</a>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=1&pause=99999&color=4ADE80&width=720&height=28&lines=%24+joke+--random" alt="joke" />
+
+<br />
+
+<img src="https://readme-jokes.vercel.app/api?theme=algolia&hideBorder=true" alt="joke" />
+
 </div>
 
----
+<br />
 
-## $ cat ~/.contact
-
-```bash
-┌─────────────────────────────────────────────────────────┐
-│ Twitter   →  https://twitter.com/cardene777             │
-│ Blog      →  https://chaldene.net                       │
-│ Qiita     →  https://qiita.com/cardene                  │
-│ Zenn      →  https://zenn.dev/heku                      │
-└─────────────────────────────────────────────────────────┘
-```
+<!-- ═══════════ 3. STATS ═══════════ -->
 
 <div align="center">
 
-[![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=4ade80)](https://twitter.com/cardene777)
-[![Blog](https://img.shields.io/badge/Blog-000000?style=for-the-badge&logo=hashnode&logoColor=4ade80)](https://chaldene.net)
-[![Qiita](https://img.shields.io/badge/Qiita-000000?style=for-the-badge&logo=qiita&logoColor=4ade80)](https://qiita.com/cardene)
-[![Zenn](https://img.shields.io/badge/Zenn-000000?style=for-the-badge&logo=zenn&logoColor=4ade80)](https://zenn.dev/heku)
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=1&pause=99999&color=4ADE80&width=720&height=28&lines=%24+stats+--all" alt="stats" />
+
+<br />
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=cardene777&show_icons=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=4ade80&icon_color=4ade80&text_color=d1fae5&ring_color=4ade80&border_color=4ade80&border_radius=10" alt="stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cardene777&layout=donut&langs_count=8&bg_color=0d1117&title_color=4ade80&text_color=d1fae5&border_color=4ade80&border_radius=10" alt="top langs" />
+
+<br /><br />
+
+<img src="https://streak-stats.demolab.com?user=cardene777&background=0d1117&border=4ade80&stroke=4ade80&ring=4ade80&fire=fbbf24&currStreakLabel=4ade80&sideNums=d1fae5&currStreakNum=d1fae5&dates=86efac&sideLabels=4ade80&border_radius=10" alt="streak" />
 
 </div>
 
----
+<br />
 
-## $ stats --activity
+<!-- ═══════════ 4. ACTIVITY ═══════════ -->
 
 <div align="center">
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cardene777&theme=react-dark&bg_color=000000&color=4ade80&line=22c55e&point=fbbf24&hide_border=true&area=true&area_color=22c55e" />
-</a>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=1&pause=99999&color=4ADE80&width=720&height=28&lines=%24+git+log+--graph+%7C+tail+-365" alt="git log" />
+
+<br />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=cardene777&bg_color=0d1117&color=4ade80&line=4ade80&point=fbbf24&area=true&area_color=4ade80&radius=10&custom_title=Contributions+in+the+Last+Year&title_color=4ade80" alt="activity" />
+
 </div>
 
----
+<br />
 
-## $ git log --recent
+<!-- ═══════════ 5. RENDER --3D (単独) ═══════════ -->
 
 <div align="center">
-<a href="https://github.com/Platane/snk">
-  <img alt="snake animation" src="https://raw.githubusercontent.com/cardene777/cardene777/snek/snek-dark.svg" />
-</a>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=1&pause=99999&color=4ADE80&width=720&height=28&lines=%24+render+--3d+contributions.svg" alt="render 3d" />
+
+<br />
+
+<img src="https://raw.githubusercontent.com/cardene777/cardene777/main/profile-3d-contrib/profile-night-green.svg" alt="3d contrib" width="100%" />
+
 </div>
 
----
+<br />
 
-## $ render --3d
+<!-- ═══════════ 6. AWARDS ═══════════ -->
 
 <div align="center">
-<img src="./profile-3d-contrib/profile-night-green.svg" alt="3d contrib" />
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=1&pause=99999&color=4ADE80&width=720&height=28&lines=%24+awards+--list" alt="awards" />
+
+<br />
+
+<img src="https://github-profile-trophy.vercel.app/?username=cardene777&theme=onedark&no-frame=true&no-bg=true&row=2&column=4&margin-w=15&margin-h=15&rank=SECRET,SSS,SS,S,AAA,AA,A,B" alt="trophy" />
+
 </div>
 
----
+<br />
 
-## $ awards --list
+<!-- ═══════════ 7. WAKATIME ═══════════ -->
 
 <div align="center">
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=cardene777&no-bg=true&no-frame=true&title_color=4ade80&text_color=d1fae5&column=7&margin-w=8&margin-h=8" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=1&pause=99999&color=4ADE80&width=720&height=28&lines=%24+wakatime+--report" alt="wakatime" />
 </div>
 
----
+<!--START_SECTION:waka-->
+<!-- WakaTime stats are updated daily by .github/workflows/waka-readme.yml -->
+<!-- Setup required (one-time):
+     1. Settings → Secrets → Actions に追加:
+        - WAKATIME_API_KEY (https://wakatime.com/settings/account)
+        - GH_TOKEN (Settings > Developer Settings > PAT、scope: repo + user)
+     2. Actions タブで "Waka Readme" を Run workflow
+     3. このコメント間に統計が自動挿入される
+-->
+<!--END_SECTION:waka-->
 
-## $ joke --random
+<br />
+
+<!-- ═══════════ 8. SNAKE ═══════════ -->
 
 <div align="center">
-<img src="https://readme-jokes.vercel.app/api?theme=dark&borderColor=4ade80&textColor=d1fae5&bgColor=000000&qColor=fbbf24&aColor=4ade80&hideBorder=false" alt="joke" />
-</div>
 
----
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=1&pause=99999&color=4ADE80&width=720&height=28&lines=%24+.%2Fsnake.sh" alt="snake" />
 
-<div align="center">
+<br />
 
-```bash
-$ exit
-> Thanks for visiting. Happy hacking. _
-```
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:16302a,100:4ade80&height=80&section=footer&reversal=true" />
+<img alt="snake" src="https://raw.githubusercontent.com/cardene777/cardene777/snek/snek-dark.svg" />
 
 </div>
