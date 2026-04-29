@@ -93,12 +93,12 @@ blog     → <a href="https://chaldene.net">chaldene.net</a>
 
 <br />
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=cardene777&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=000000&title_color=4ade80&icon_color=4ade80&text_color=4ade80&ring_color=4ade80" alt="stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cardene777&layout=donut&hide_border=true&langs_count=8&bg_color=000000&title_color=4ade80&text_color=4ade80" alt="top langs" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=cardene777&show_icons=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=4ade80&icon_color=4ade80&text_color=d1fae5&ring_color=4ade80&border_color=4ade80&border_radius=10" alt="stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cardene777&layout=donut&langs_count=8&bg_color=0d1117&title_color=4ade80&text_color=d1fae5&border_color=4ade80&border_radius=10" alt="top langs" />
 
 <br /><br />
 
-<img src="https://streak-stats.demolab.com?user=cardene777&hide_border=true&background=000000&stroke=4ade80&ring=4ade80&fire=4ade80&currStreakLabel=4ade80&sideNums=4ade80&currStreakNum=4ade80&dates=4ade80&sideLabels=4ade80" alt="streak" />
+<img src="https://streak-stats.demolab.com?user=cardene777&background=0d1117&border=4ade80&stroke=4ade80&ring=4ade80&fire=fbbf24&currStreakLabel=4ade80&sideNums=d1fae5&currStreakNum=d1fae5&dates=86efac&sideLabels=4ade80&border_radius=10" alt="streak" />
 
 </div>
 
@@ -112,7 +112,7 @@ blog     → <a href="https://chaldene.net">chaldene.net</a>
 
 <br />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=cardene777&bg_color=000000&color=4ade80&line=4ade80&point=4ade80&area=true&area_color=4ade80&hide_border=true&custom_title=" alt="activity" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=cardene777&bg_color=0d1117&color=4ade80&line=4ade80&point=fbbf24&area=true&area_color=4ade80&radius=10&custom_title=Contributions+in+the+Last+Year&title_color=4ade80" alt="activity" />
 
 </div>
 
@@ -140,7 +140,7 @@ blog     → <a href="https://chaldene.net">chaldene.net</a>
 
 <br />
 
-<img src="https://github-profile-trophy.vercel.app/?username=cardene777&theme=matrix&no-frame=true&row=2&column=4&margin-w=15&margin-h=15&title_color=4ade80&text_color=ffffff&rank=SECRET,SSS,SS,S,AAA,AA,A,B" alt="trophy" />
+<img src="https://github-profile-trophy.vercel.app/?username=cardene777&theme=flat&row=2&column=4&margin-w=15&margin-h=15&rank=SECRET,SSS,SS,S,AAA,AA,A,B" alt="trophy" />
 
 </div>
 
