@@ -11,9 +11,13 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=1&pause=99999&color=4ADE80&center=true&vCenter=true&width=720&height=48&lines=cardene777" alt="cardene777" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=72&duration=1&pause=99999&color=4ADE80&center=true&vCenter=true&width=720&height=96&lines=cardene" alt="cardene" />
 
-<sub>Smart Contract Engineer × AI Builder · Tokyo</sub>
+<sub>─────━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━─────</sub>
+
+<br />
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2400&pause=900&color=4ADE80&center=true&vCenter=true&width=720&height=32&lines=Smart+Contract+Engineer+%C3%97+AI+Builder;Building+Web3+%C3%97+AI+products;Tokyo+%C2%B7+Always+shipping" alt="tagline" />
 
 </div>
 
