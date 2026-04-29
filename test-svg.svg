@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="900" height="800" viewBox="0 0 900 800">
+  <style><![CDATA[
+    .terminal-bg { fill: #000000; }
+    .border { stroke: #16302a; fill: none; stroke-width: 1; }
+    .header-bar { fill: #0a1410; }
+    .prompt { fill: #4ade80; font-family: 'JetBrains Mono', 'SF Mono', monospace; font-size: 14px; font-weight: 700; }
+    .cmd { fill: #22c55e; font-family: 'JetBrains Mono', monospace; font-size: 14px; }
+    .text { fill: #d1fae5; font-family: 'JetBrains Mono', monospace; font-size: 13px; }
+    .accent { fill: #86efac; }
+    .highlight { fill: #fbbf24; }
+    .red { fill: #ef4444; }
+    .yellow { fill: #fbbf24; }
+    .green { fill: #4ade80; }
+    @keyframes blink { 0%, 50% { opacity: 1; } 50.01%, 100% { opacity: 0; } }
+    .cursor { animation: blink 1s infinite; }
+  ]]></style>
+
+  <!-- A: 黒背景 + 枠 -->
+  <rect class="terminal-bg" x="0" y="0" width="900" height="800" rx="8" />
+  <rect class="border" x="0.5" y="0.5" width="899" height="799" rx="8" />
+
+  <!-- A2: ターミナルヘッダーバー -->
+  <rect class="header-bar" x="0" y="0" width="900" height="32" />
+  <circle class="red" cx="20" cy="16" r="6" />
+  <circle class="yellow" cx="40" cy="16" r="6" />
+  <circle class="green" cx="60" cy="16" r="6" />
+  <text class="prompt" x="84" y="20" style="font-size: 12px;">cardene@dev: ~</text>
+
+  <!-- A3: text 描画 -->
+  <text class="prompt" x="20" y="70">cardene@dev:~$ <tspan class="cmd">whoami</tspan></text>
+  <text class="text" x="20" y="92">cardene</text>
+
+  <text class="prompt" x="20" y="130">cardene@dev:~$ <tspan class="cmd">echo "test SVG renders"</tspan></text>
+  <text class="text" x="20" y="152">test SVG renders</text>
+
+  <!-- A4: animate 動作 (カーソル点滅) -->
+  <text class="prompt" x="20" y="190">cardene@dev:~$ <tspan class="green cursor">█</tspan></text>
+
+  <!-- B: 外部画像参照 (snake) — 動くか検証 -->
+  <text class="prompt" x="20" y="230">cardene@dev:~$ <tspan class="cmd">cat external-image.svg</tspan></text>
+  <image x="20" y="250" width="800" height="180" href="https://raw.githubusercontent.com/cardene777/cardene777/snek/snek-dark.svg" />
+
+  <!-- B2: 外部 PNG/JPG (Stats card) — 動くか検証 -->
+  <text class="prompt" x="20" y="460">cardene@dev:~$ <tspan class="cmd">stats</tspan></text>
+  <image x="20" y="480" width="495" height="195" href="https://github-readme-stats.vercel.app/api?username=cardene777&amp;show_icons=true&amp;hide_border=true&amp;bg_color=000000&amp;title_color=4ade80&amp;icon_color=22c55e&amp;text_color=d1fae5" />
+
+  <!-- C: foreignObject (HTML 埋め込み) — sanitize されるか検証 -->
+  <text class="prompt" x="20" y="710">cardene@dev:~$ <tspan class="cmd">render foreignObject test</tspan></text>
+  <foreignObject x="20" y="730" width="860" height="50">
+    <div xmlns="http://www.w3.org/1999/xhtml" style="background: #4ade80; color: #000; padding: 8px; font-family: monospace; font-size: 14px; border: 2px solid #fbbf24;">
+      foreignObject works! (HTML inside SVG)
+    </div>
+  </foreignObject>
+</svg>

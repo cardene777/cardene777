@@ -1,3 +1,23 @@
+<!--
+  ⚠️ TEMPORARY: SVG sanitize 検証用。後で削除する。
+  検証項目:
+  - A: SVG <text> + <rect> + <animate>
+  - B: SVG <image href="..."> 外部画像参照 (raw.githubusercontent / github-readme-stats)
+  - C: SVG <foreignObject> 内 HTML 描画
+-->
+
+## 🧪 SVG sanitize 検証
+
+### 相対パス参照
+
+<img src="./test-svg.svg" alt="test svg via relative path" />
+
+### raw.githubusercontent.com 経由
+
+<img src="https://raw.githubusercontent.com/cardene777/cardene777/feature/profile-svg-typing/test-svg.svg" alt="test svg via raw" />
+
+---
+
 <div align="center">
 
 # 🦔 cardene777
