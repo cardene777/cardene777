@@ -140,13 +140,32 @@ blog     → <a href="https://chaldene.net">chaldene.net</a>
 
 <br />
 
-<img src="https://github-profile-trophy.vercel.app/?username=cardene777&theme=flat&row=2&column=4&margin-w=15&margin-h=15&rank=SECRET,SSS,SS,S,AAA,AA,A,B" alt="trophy" />
+<img src="https://github-profile-trophy.vercel.app/?username=cardene777&theme=onedark&no-frame=true&no-bg=true&row=2&column=4&margin-w=15&margin-h=15&rank=SECRET,SSS,SS,S,AAA,AA,A,B" alt="trophy" />
 
 </div>
 
 <br />
 
-<!-- ═══════════ 7. SNAKE ═══════════ -->
+<!-- ═══════════ 7. WAKATIME ═══════════ -->
+
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=1&pause=99999&color=4ADE80&width=720&height=28&lines=%24+wakatime+--report" alt="wakatime" />
+</div>
+
+<!--START_SECTION:waka-->
+<!-- WakaTime stats are updated daily by .github/workflows/waka-readme.yml -->
+<!-- Setup required (one-time):
+     1. Settings → Secrets → Actions に追加:
+        - WAKATIME_API_KEY (https://wakatime.com/settings/account)
+        - GH_TOKEN (Settings > Developer Settings > PAT、scope: repo + user)
+     2. Actions タブで "Waka Readme" を Run workflow
+     3. このコメント間に統計が自動挿入される
+-->
+<!--END_SECTION:waka-->
+
+<br />
+
+<!-- ═══════════ 8. SNAKE ═══════════ -->
 
 <div align="center">
 
