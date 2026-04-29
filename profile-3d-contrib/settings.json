@@ -1,11 +1,6 @@
 {
-  "type": "season",
+  "type": "night-green",
   "backgroundImageUrl": "",
   "fileName": "profile-night-green.svg",
-  "settings": [
-    {
-      "type": "night-green",
-      "backgroundColor": "#000000"
-    }
-  ]
+  "backgroundColor": "#000000"
 }

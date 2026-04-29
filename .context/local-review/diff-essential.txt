@@ -1,0 +1,12 @@
+本 PR の実質変更は以下のファイルのみ。profile-summary-card-output/**/*.svg (約 258 件) と profile-3d-contrib/profile-night-green.svg は GitHub Actions 自動生成のためレビュー除外。
+
+レビュー対象は git diff $(git merge-base HEAD main)..HEAD で各ファイル個別に取得すること。
+- README.md
+- docs/index.html (新規)
+- docs/style.css (新規)
+- assets/logo-cardene.svg (新規)
+- .github/workflows/waka-readme.yml (新規)
+- .github/workflows/profile-3d.yml (新規)
+- .github/workflows/snake.yml
+- profile-3d-contrib/settings.json (新規)
+- images/stat.svg (画像生成物、内容判定はスキップ可)
