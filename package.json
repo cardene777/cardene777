@@ -1,0 +1,27 @@
+{
+  "name": "cardene777",
+  "version": "1.0.0",
+  "description": "<!--   ⚠️ TEMPORARY: SVG sanitize 検証用。後で削除する。   検証項目:   - A: SVG <text> + <rect> + <animate>   - B: SVG <image href=\"...\"> 外部画像参照 (raw.githubusercontent / github-readme-stats)   - C: SVG <foreignObject> 内 HTML 描画 -->",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cardene777/cardene777.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/cardene777/cardene777/issues"
+  },
+  "homepage": "https://github.com/cardene777/cardene777#readme",
+  "devDependencies": {
+    "playwright": "^1.59.1"
+  }
+}
