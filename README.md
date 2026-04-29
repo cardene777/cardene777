@@ -10,7 +10,9 @@
 
 ---
 
-## $ cat .role
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=1&pause=99999&color=4ADE80&width=420&lines=%24+cat+.role" alt="cat .role" />
+</div>
 
 ```bash
 ┌──────────────────────────────────────────────────────────────┐
@@ -19,13 +21,15 @@
 │ LOCATION   Tokyo, Japan                                      │
 │ STACK      TypeScript · Solidity · Python · Next.js          │
 │ FOCUS      DApps · Smart Contracts · AI/LLM Integration      │
-│ STATUS     Building, learning, shipping.                     │
+│ STATUS     Building, learning, shipping. _                   │
 └──────────────────────────────────────────────────────────────┘
 ```
 
 ---
 
-## $ neofetch --profile
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=1&pause=99999&color=4ADE80&width=420&lines=%24+neofetch+--profile" alt="neofetch" />
+</div>
 
 <div align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -38,7 +42,9 @@
 
 ---
 
-## $ stat --commit-streak
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=1&pause=99999&color=4ADE80&width=420&lines=%24+stat+--commit-streak" alt="streak" />
+</div>
 
 <div align="center">
 <a href="https://git.io/streak-stats">
@@ -48,7 +54,9 @@
 
 ---
 
-## $ ls projects/
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=1&pause=99999&color=4ADE80&width=420&lines=%24+ls+projects%2F" alt="ls projects" />
+</div>
 
 ```bash
 total 4
@@ -56,6 +64,7 @@ drwxr-xr-x  cardene  staff  Web3      borderless-contract/
 drwxr-xr-x  cardene  staff  Tooling   claude-config/
 drwxr-xr-x  cardene  staff  AI/LLM    ai-experiments/
 drwxr-xr-x  cardene  staff  Web/Blog  chaldene-net/
+$ _
 ```
 
 <div align="center">
@@ -66,7 +75,9 @@ drwxr-xr-x  cardene  staff  Web/Blog  chaldene-net/
 
 ---
 
-## $ cat ~/.contact
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=1&pause=99999&color=4ADE80&width=420&lines=%24+cat+~%2F.contact" alt="contact" />
+</div>
 
 ```bash
 ┌─────────────────────────────────────────────────────────┐
@@ -88,7 +99,9 @@ drwxr-xr-x  cardene  staff  Web/Blog  chaldene-net/
 
 ---
 
-## $ stats --activity
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=1&pause=99999&color=4ADE80&width=420&lines=%24+stats+--activity" alt="activity" />
+</div>
 
 <div align="center">
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
@@ -98,7 +111,9 @@ drwxr-xr-x  cardene  staff  Web/Blog  chaldene-net/
 
 ---
 
-## $ git log --recent
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=1&pause=99999&color=4ADE80&width=420&lines=%24+git+log+--recent" alt="git log" />
+</div>
 
 <div align="center">
 <a href="https://github.com/Platane/snk">
@@ -108,7 +123,9 @@ drwxr-xr-x  cardene  staff  Web/Blog  chaldene-net/
 
 ---
 
-## $ render --3d
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=1&pause=99999&color=4ADE80&width=420&lines=%24+render+--3d" alt="render 3d" />
+</div>
 
 <div align="center">
 <img src="./profile-3d-contrib/profile-night-green.svg" alt="3d contrib" />
@@ -116,7 +133,9 @@ drwxr-xr-x  cardene  staff  Web/Blog  chaldene-net/
 
 ---
 
-## $ awards --list
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=1&pause=99999&color=4ADE80&width=420&lines=%24+awards+--list" alt="awards" />
+</div>
 
 <div align="center">
 <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -126,7 +145,9 @@ drwxr-xr-x  cardene  staff  Web/Blog  chaldene-net/
 
 ---
 
-## $ joke --random
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=1&pause=99999&color=4ADE80&width=420&lines=%24+joke+--random" alt="joke" />
+</div>
 
 <div align="center">
 <img src="https://readme-jokes.vercel.app/api?theme=dark&borderColor=4ade80&textColor=d1fae5&bgColor=000000&qColor=fbbf24&aColor=4ade80&hideBorder=false" alt="joke" />
@@ -136,10 +157,7 @@ drwxr-xr-x  cardene  staff  Web/Blog  chaldene-net/
 
 <div align="center">
 
-```bash
-$ exit
-> Thanks for visiting. Happy hacking. _
-```
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2200&pause=2000&color=4ADE80&center=true&vCenter=true&width=600&lines=%24+exit;%3E+Thanks+for+visiting.+Happy+hacking." alt="exit" />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:16302a,100:4ade80&height=80&section=footer&reversal=true" />
 
