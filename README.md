@@ -206,11 +206,6 @@ Shell                    2 repos             █░░░░░░░░░░�
 
 
 
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/cardene777/cardene777/main/assets/bar_graph.png)
-
-
  Last Updated on 29/04/2026 23:28:56 UTC
 <!--END_SECTION:waka-->
 
