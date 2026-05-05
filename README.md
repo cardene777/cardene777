@@ -94,11 +94,11 @@ blog     → <a href="https://chaldene.net">chaldene.net</a>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=1&pause=99999&color=4ADE80&width=720&height=28&lines=%24+git+log+--graph+%7C+tail+-365" alt="git log" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=1&pause=99999&color=4ADE80&width=720&height=28&lines=%24+git+log+--graph+%7C+tail+-31" alt="git log" />
 
 <br />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=cardene777&bg_color=0d1117&color=4ade80&line=4ade80&point=fbbf24&area=true&area_color=4ade80&radius=10&custom_title=Contributions+in+the+Last+Year&title_color=4ade80" alt="activity" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=cardene777&bg_color=0d1117&color=4ade80&line=4ade80&point=fbbf24&area=true&area_color=4ade80&radius=10&custom_title=Activity+in+the+Last+31+Days&title_color=4ade80" alt="activity" />
 
 </div>
 
