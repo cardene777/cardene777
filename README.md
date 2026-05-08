@@ -145,7 +145,7 @@ blog     → <a href="https://chaldene.net">chaldene.net</a>
 
 > 📦 2.2 MB Used in GitHub's Storage 
  > 
-> 🏆 9,884 Contributions in the Year 2026
+> 🏆 9,869 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -190,13 +190,6 @@ Other                    5 hrs 44 mins       ██░░░░░░░░░�
 Unknown Editor           46 hrs 16 mins      █████████████░░░░░░░░░░░░   52.67 % 
 Cursor                   41 hrs 34 mins      ████████████░░░░░░░░░░░░░   47.33 % 
 
-🐱‍💻 Projects: 
-claude                   22 hrs 18 mins      ██████░░░░░░░░░░░░░░░░░░░   25.41 % 
-Borderless-Contract      18 hrs 37 mins      █████░░░░░░░░░░░░░░░░░░░░   21.20 % 
-jfet-tools               16 hrs 28 mins      █████░░░░░░░░░░░░░░░░░░░░   18.76 % 
-blockchain-playground    15 hrs 26 mins      ████░░░░░░░░░░░░░░░░░░░░░   17.58 % 
-AlphaTrader              6 hrs 3 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.90 % 
-
 💻 Operating System: 
 Mac                      87 hrs 50 mins      █████████████████████████   100.00 % 
 ```
@@ -207,8 +200,12 @@ Mac                      87 hrs 50 mins      ███████████�
 
 
 
+**Timeline**
 
- Last Updated on 08/05/2026 01:13:56 UTC
+![Lines of Code chart](https://raw.githubusercontent.com/cardene777/cardene777/main/assets/bar_graph.png)
+
+
+ Last Updated on 08/05/2026 01:14:39 UTC
 <!--END_SECTION:waka-->
 
 <br />
