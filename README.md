@@ -153,6 +153,47 @@ blog     → <a href="https://chaldene.net">chaldene.net</a>
  > 
 > 🔑 76 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+🌆 Daytime                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+🌃 Evening                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Tuesday                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Wednesday                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Thursday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Friday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Saturday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Sunday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Tokyo
+
+💬 Programming Languages: 
+Markdown                 29 hrs 15 mins      ███████░░░░░░░░░░░░░░░░░░   26.20 % 
+Text                     16 hrs 5 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.41 % 
+TypeScript               14 hrs 21 mins      ███░░░░░░░░░░░░░░░░░░░░░░   12.86 % 
+Python                   14 hrs 3 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.58 % 
+Other                    12 hrs 46 mins      ███░░░░░░░░░░░░░░░░░░░░░░   11.43 % 
+
+🔥 Editors: 
+Cursor                   94 hrs 17 mins      █████████████████████░░░░   84.43 % 
+Unknown Editor           17 hrs 23 mins      ████░░░░░░░░░░░░░░░░░░░░░   15.57 % 
+
+💻 Operating System: 
+Mac                      111 hrs 41 mins     █████████████████████████   100.00 % 
+```
+
 ```text
 
 ```
@@ -164,7 +205,7 @@ blog     → <a href="https://chaldene.net">chaldene.net</a>
 ![Lines of Code chart](https://raw.githubusercontent.com/cardene777/cardene777/main/assets/bar_graph.png)
 
 
- Last Updated on 17/05/2026 17:25:22 UTC
+ Last Updated on 17/05/2026 17:26:06 UTC
 <!--END_SECTION:waka-->
 
 <br />
