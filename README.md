@@ -139,6 +139,8 @@ blog     → <a href="https://chaldene.net">chaldene.net</a>
 </div>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-612%20hrs%209%20mins-blue?style=flat)
+
 **🐱 My GitHub Data** 
 
 > 📦 2.2 MB Used in GitHub's Storage 
@@ -203,7 +205,7 @@ Mac                      113 hrs 21 mins     ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/cardene777/cardene777/main/assets/bar_graph.png)
 
 
- Last Updated on 17/05/2026 17:31:21 UTC
+ Last Updated on 17/05/2026 17:32:00 UTC
 <!--END_SECTION:waka-->
 
 <br />
