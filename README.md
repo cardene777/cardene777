@@ -145,7 +145,7 @@ blog     → <a href="https://chaldene.net">chaldene.net</a>
 
 > 📦 2.2 MB Used in GitHub's Storage 
  > 
-> 🏆 12,220 Contributions in the Year 2026
+> 🏆 12,198 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -153,6 +153,47 @@ blog     → <a href="https://chaldene.net">chaldene.net</a>
  > 
 > 🔑 76 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+🌆 Daytime                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+🌃 Evening                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Tuesday                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Wednesday                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Thursday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Friday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Saturday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Sunday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Tokyo
+
+💬 Programming Languages: 
+Markdown                 30 hrs 1 min        ██████░░░░░░░░░░░░░░░░░░░   25.94 % 
+Python                   16 hrs 33 mins      ████░░░░░░░░░░░░░░░░░░░░░   14.30 % 
+TypeScript               14 hrs 57 mins      ███░░░░░░░░░░░░░░░░░░░░░░   12.92 % 
+Text                     14 hrs 27 mins      ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+Other                    12 hrs 59 mins      ███░░░░░░░░░░░░░░░░░░░░░░   11.22 % 
+
+🔥 Editors: 
+Cursor                   98 hrs 57 mins      █████████████████████░░░░   85.50 % 
+Claude Code              16 hrs 46 mins      ████░░░░░░░░░░░░░░░░░░░░░   14.50 % 
+
+💻 Operating System: 
+Mac                      115 hrs 44 mins     █████████████████████████   100.00 % 
+```
+
 ```text
 
 ```
@@ -164,7 +205,7 @@ blog     → <a href="https://chaldene.net">chaldene.net</a>
 ![Lines of Code chart](https://raw.githubusercontent.com/cardene777/cardene777/main/assets/bar_graph.png)
 
 
- Last Updated on 18/05/2026 16:15:54 UTC
+ Last Updated on 18/05/2026 16:16:52 UTC
 <!--END_SECTION:waka-->
 
 <br />
