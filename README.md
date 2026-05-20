@@ -139,13 +139,13 @@ blog     → <a href="https://chaldene.net">chaldene.net</a>
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-647%20hrs%205%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-650%20hrs%2012%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 2.2 MB Used in GitHub's Storage 
  > 
-> 🏆 12,483 Contributions in the Year 2026
+> 🏆 12,508 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -190,6 +190,13 @@ Text                     12 hrs 6 mins       ███░░░░░░░░�
 Cursor                   96 hrs 34 mins      █████████████████████░░░░   85.50 % 
 Claude Code              16 hrs 22 mins      ████░░░░░░░░░░░░░░░░░░░░░   14.50 % 
 
+🐱‍💻 Projects: 
+blockchain-playground    20 hrs 30 mins      █████░░░░░░░░░░░░░░░░░░░░   18.16 % 
+AlphaTrader              20 hrs 14 mins      ████░░░░░░░░░░░░░░░░░░░░░   17.91 % 
+claude                   17 hrs 55 mins      ████░░░░░░░░░░░░░░░░░░░░░   15.87 % 
+Borderless-Contract      14 hrs 20 mins      ███░░░░░░░░░░░░░░░░░░░░░░   12.69 % 
+solhawk                  13 hrs 21 mins      ███░░░░░░░░░░░░░░░░░░░░░░   11.83 % 
+
 💻 Operating System: 
 Mac                      112 hrs 57 mins     █████████████████████████   100.00 % 
 ```
@@ -200,12 +207,8 @@ Mac                      112 hrs 57 mins     ███████████�
 
 
 
-**Timeline**
 
-![Lines of Code chart](https://raw.githubusercontent.com/cardene777/cardene777/main/assets/bar_graph.png)
-
-
- Last Updated on 19/05/2026 17:26:29 UTC
+ Last Updated on 20/05/2026 01:23:42 UTC
 <!--END_SECTION:waka-->
 
 <br />
