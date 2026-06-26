@@ -42,13 +42,3 @@
 ```
 
     
-
----
-
-![](./3-stats.svg)
-
-```
-![](https://raw.githubusercontent.com/cardene777/cardene777/main/profile-summary-card-output/vision_friendly_dark/3-stats.svg)
-```
-
-    
