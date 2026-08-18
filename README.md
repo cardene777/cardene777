@@ -147,8 +147,6 @@ blog     → <a href="https://chaldene.net">chaldene.net</a>
 
 > 📦 4.7 MB Used in GitHub's Storage 
  > 
-> 🏆 41,441 Contributions in the Year 2026
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 74 Public Repositories 
@@ -158,21 +156,21 @@ blog     → <a href="https://chaldene.net">chaldene.net</a>
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                16062 commits       █████░░░░░░░░░░░░░░░░░░░░   20.52 % 
-🌆 Daytime                30452 commits       ██████████░░░░░░░░░░░░░░░   38.90 % 
-🌃 Evening                25086 commits       ████████░░░░░░░░░░░░░░░░░   32.05 % 
-🌙 Night                  6682 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.54 % 
+🌞 Morning                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+🌆 Daytime                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+🌃 Evening                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
-📅 **I'm Most Productive on Sunday** 
+📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   15452 commits       █████░░░░░░░░░░░░░░░░░░░░   19.74 % 
-Tuesday                  16089 commits       █████░░░░░░░░░░░░░░░░░░░░   20.55 % 
-Wednesday                5297 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.77 % 
-Thursday                 8966 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.45 % 
-Friday                   6844 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.74 % 
-Saturday                 4764 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.09 % 
-Sunday                   20870 commits       ███████░░░░░░░░░░░░░░░░░░   26.66 % 
+Monday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Tuesday                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Wednesday                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Thursday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Friday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Saturday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Sunday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
 
 
@@ -194,13 +192,6 @@ Codex Exec               13 hrs 20 mins      ████░░░░░░░�
 Cursor                   5 hrs 54 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.13 % 
 Codex Vscode             3 hrs 31 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 % 
 Codex Mcp                11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
-
-🐱‍💻 Projects: 
-agent-configs            10 hrs 8 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.24 % 
-BorderlessCompany-Fronten8 hrs 25 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.17 % 
-AlphaTrader              7 hrs 55 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.57 % 
-ecms                     7 hrs 38 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.23 % 
-cp-digital-market        6 hrs 13 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.51 % 
 
 💻 Operating System: 
 Mac                      82 hrs 49 mins      █████████████████████████   100.00 % 
@@ -230,20 +221,18 @@ Composer                 1,577 lines         ░░░░░░░░░░░�
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
-**I Mostly Code in TypeScript** 
-
 ```text
-TypeScript               6 repos             ███████████░░░░░░░░░░░░░░   42.86 % 
-HTML                     2 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
-JavaScript               1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
-Solidity                 1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
-Astro                    1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
+
 ```
 
 
 
+**Timeline**
 
- Last Updated on 18/08/2026 02:08:04 UTC
+![Lines of Code chart](https://raw.githubusercontent.com/cardene777/cardene777/main/assets/bar_graph.png)
+
+
+ Last Updated on 18/08/2026 02:09:02 UTC
 <!--END_SECTION:waka-->
 
 <br />
