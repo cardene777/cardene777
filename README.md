@@ -156,21 +156,21 @@ blog     → <a href="https://chaldene.net">chaldene.net</a>
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-🌆 Daytime                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-🌃 Evening                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+🌞 Morning                332583 commits      ███████░░░░░░░░░░░░░░░░░░   28.22 % 
+🌆 Daytime                404933 commits      █████████░░░░░░░░░░░░░░░░   34.36 % 
+🌃 Evening                340104 commits      ███████░░░░░░░░░░░░░░░░░░   28.86 % 
+🌙 Night                  100954 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   08.57 % 
 ```
-📅 **I'm Most Productive on Monday** 
+📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Tuesday                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Wednesday                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Thursday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Friday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Saturday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Sunday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Monday                   166022 commits      ████░░░░░░░░░░░░░░░░░░░░░   14.09 % 
+Tuesday                  186114 commits      ████░░░░░░░░░░░░░░░░░░░░░   15.79 % 
+Wednesday                163361 commits      ███░░░░░░░░░░░░░░░░░░░░░░   13.86 % 
+Thursday                 212490 commits      █████░░░░░░░░░░░░░░░░░░░░   18.03 % 
+Friday                   160882 commits      ███░░░░░░░░░░░░░░░░░░░░░░   13.65 % 
+Saturday                 163783 commits      ███░░░░░░░░░░░░░░░░░░░░░░   13.90 % 
+Sunday                   125922 commits      ███░░░░░░░░░░░░░░░░░░░░░░   10.68 % 
 ```
 
 
@@ -221,8 +221,14 @@ Composer                 1,577 lines         ░░░░░░░░░░░�
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
-```text
+**I Mostly Code in TypeScript** 
 
+```text
+TypeScript               50 repos            █████████████░░░░░░░░░░░░   53.76 % 
+Solidity                 13 repos            ███░░░░░░░░░░░░░░░░░░░░░░   13.98 % 
+HTML                     7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.53 % 
+JavaScript               6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.45 % 
+Astro                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.08 % 
 ```
 
 
@@ -232,7 +238,7 @@ Composer                 1,577 lines         ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/cardene777/cardene777/main/assets/bar_graph.png)
 
 
- Last Updated on 18/08/2026 02:09:02 UTC
+ Last Updated on 18/08/2026 08:08:40 UTC
 <!--END_SECTION:waka-->
 
 <br />
