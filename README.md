@@ -156,21 +156,21 @@ blog     → <a href="https://chaldene.net">chaldene.net</a>
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-🌆 Daytime                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-🌃 Evening                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+🌞 Morning                41224 commits       ████████░░░░░░░░░░░░░░░░░   33.48 % 
+🌆 Daytime                42061 commits       █████████░░░░░░░░░░░░░░░░   34.16 % 
+🌃 Evening                37225 commits       ████████░░░░░░░░░░░░░░░░░   30.23 % 
+🌙 Night                  2612 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   02.12 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Tuesday                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Wednesday                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Thursday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Friday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Saturday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Sunday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Monday                   26351 commits       █████░░░░░░░░░░░░░░░░░░░░   21.40 % 
+Tuesday                  15459 commits       ███░░░░░░░░░░░░░░░░░░░░░░   12.56 % 
+Wednesday                10608 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   08.62 % 
+Thursday                 15167 commits       ███░░░░░░░░░░░░░░░░░░░░░░   12.32 % 
+Friday                   20303 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.49 % 
+Saturday                 14568 commits       ███░░░░░░░░░░░░░░░░░░░░░░   11.83 % 
+Sunday                   20666 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.78 % 
 ```
 
 
@@ -180,50 +180,54 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Markdown                 56 hrs 34 mins      ████████████░░░░░░░░░░░░░   49.42 % 
-TypeScript               23 hrs 31 mins      █████░░░░░░░░░░░░░░░░░░░░   20.54 % 
-Bash                     7 hrs 12 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.30 % 
-JavaScript               6 hrs 34 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.75 % 
-Text                     4 hrs 55 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.30 % 
+Markdown                 47 hrs 48 mins      █████████████░░░░░░░░░░░░   50.60 % 
+TypeScript               17 hrs 13 mins      █████░░░░░░░░░░░░░░░░░░░░   18.24 % 
+JavaScript               5 hrs 54 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.26 % 
+Bash                     5 hrs 41 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.03 % 
+Text                     4 hrs 14 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.49 % 
 
 🔥 Editors: 
-Claude Code              96 hrs 26 mins      █████████████████████░░░░   84.24 % 
-Codex Exec               11 hrs 36 mins      ███░░░░░░░░░░░░░░░░░░░░░░   10.14 % 
-Cursor                   5 hrs 50 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.10 % 
-Codex Vscode             34 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
-Agent                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+Claude Code              80 hrs 24 mins      █████████████████████░░░░   85.11 % 
+Codex Exec               8 hrs 39 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.16 % 
+Cursor                   4 hrs 50 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.13 % 
+Codex Vscode             34 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
 
 💻 Operating System: 
-Mac                      114 hrs 29 mins     █████████████████████████   100.00 % 
+Mac                      94 hrs 28 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 114 hrs 29 mins (100.0%)
+⏱ AI Coding Time: 94 hrs 28 mins (99.99%)
 
-✍️ 462,868 lines written by AI, 5 lines written by hand (100.0% AI-written)
+✍️ 340,777 lines written by AI, 5 lines written by hand (100.0% AI-written)
 
-🔤 572,287,767 Input Tokens, 51,336,918 Output Tokens
+🔤 437,399,159 Input Tokens, 38,537,253 Output Tokens
 
-💵 $22523.31 Estimated AI Cost This Week
+💵 $16409.02 Estimated AI Cost This Week
 
-🧠 1376 AI Sessions, 3676 AI Prompts
+🧠 1147 AI Sessions, 2869 AI Prompts
 
-Opus                     408,549 lines       ██████████████████████░░░   86.98 % 
-GPT                      61,179 lines        ███░░░░░░░░░░░░░░░░░░░░░░   13.02 % 
+Opus                     314,547 lines       ███████████████████████░░   90.48 % 
+GPT                      33,080 lines        ██░░░░░░░░░░░░░░░░░░░░░░░   09.52 % 
 Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 9,052 characters per prompt
+📚 Verbose Prompter — average 3,992 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
-```text
+**I Mostly Code in TypeScript** 
 
+```text
+TypeScript               50 repos            █████████████░░░░░░░░░░░░   52.63 % 
+Solidity                 11 repos            ███░░░░░░░░░░░░░░░░░░░░░░   11.58 % 
+HTML                     9 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.47 % 
+JavaScript               7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.37 % 
+Astro                    2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.11 % 
 ```
 
 
@@ -233,7 +237,7 @@ Sonnet                   0 lines             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/cardene777/cardene777/main/assets/bar_graph.png)
 
 
- Last Updated on 04/09/2026 02:42:49 UTC
+ Last Updated on 05/09/2026 02:44:07 UTC
 <!--END_SECTION:waka-->
 
 <br />
