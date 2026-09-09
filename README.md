@@ -151,26 +151,26 @@ blog     → <a href="https://chaldene.net">chaldene.net</a>
  > 
 > 📜 75 Public Repositories 
  > 
-> 🔑 93 Private Repositories 
+> 🔑 94 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-🌆 Daytime                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-🌃 Evening                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+🌞 Morning                55223 commits       ████████░░░░░░░░░░░░░░░░░   32.69 % 
+🌆 Daytime                59525 commits       █████████░░░░░░░░░░░░░░░░   35.24 % 
+🌃 Evening                50592 commits       ███████░░░░░░░░░░░░░░░░░░   29.95 % 
+🌙 Night                  3580 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   02.12 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Tuesday                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Wednesday                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Thursday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Friday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Saturday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Sunday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Monday                   34074 commits       █████░░░░░░░░░░░░░░░░░░░░   20.17 % 
+Tuesday                  19945 commits       ███░░░░░░░░░░░░░░░░░░░░░░   11.81 % 
+Wednesday                15938 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   09.44 % 
+Thursday                 21488 commits       ███░░░░░░░░░░░░░░░░░░░░░░   12.72 % 
+Friday                   28860 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.09 % 
+Saturday                 22201 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.14 % 
+Sunday                   26414 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.64 % 
 ```
 
 
@@ -180,48 +180,54 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Markdown                 47 hrs 48 mins      █████████████░░░░░░░░░░░░   50.60 % 
-TypeScript               17 hrs 13 mins      █████░░░░░░░░░░░░░░░░░░░░   18.24 % 
-JavaScript               5 hrs 54 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.26 % 
-Bash                     5 hrs 41 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.03 % 
-Text                     4 hrs 14 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.49 % 
+Markdown                 6 hrs               █████████████░░░░░░░░░░░░   53.23 % 
+Other                    1 hr 41 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.04 % 
+TypeScript               1 hr 10 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.42 % 
+Python                   54 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.10 % 
+Bash                     42 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
 
 🔥 Editors: 
-Claude Code              80 hrs 24 mins      █████████████████████░░░░   85.11 % 
-Codex Exec               8 hrs 39 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.16 % 
-Cursor                   4 hrs 50 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.13 % 
-Codex Vscode             34 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
+Claude Code              9 hrs 42 mins       █████████████████████░░░░   85.96 % 
+Cursor                   55 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.16 % 
+Codex Exec               32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.74 % 
+Codex Vscode             7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.14 % 
 
 💻 Operating System: 
-Mac                      94 hrs 28 mins      █████████████████████████   100.00 % 
+Mac                      11 hrs 17 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 94 hrs 28 mins (99.99%)
+⏱ AI Coding Time: 11 hrs 17 mins (100.0%)
 
-✍️ 340,777 lines written by AI, 5 lines written by hand (100.0% AI-written)
+✍️ 38,284 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 437,399,159 Input Tokens, 38,537,253 Output Tokens
+🔤 93,682,458 Input Tokens, 10,220,416 Output Tokens
 
-💵 $16409.02 Estimated AI Cost This Week
+💵 $2448.86 Estimated AI Cost This Week
 
-🧠 1147 AI Sessions, 2869 AI Prompts
+🧠 303 AI Sessions, 501 AI Prompts
 
-Opus                     314,547 lines       ███████████████████████░░   90.48 % 
-GPT                      33,080 lines        ██░░░░░░░░░░░░░░░░░░░░░░░   09.52 % 
+Opus                     33,135 lines        █████████████████████░░░░   84.85 % 
+GPT                      5,917 lines         ████░░░░░░░░░░░░░░░░░░░░░   15.15 % 
 Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 3,992 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
+📚 Verbose Prompter — average 3,045 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
-```text
+**I Mostly Code in TypeScript** 
 
+```text
+TypeScript               51 repos            █████████████░░░░░░░░░░░░   52.58 % 
+Solidity                 11 repos            ███░░░░░░░░░░░░░░░░░░░░░░   11.34 % 
+HTML                     9 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.28 % 
+JavaScript               7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.22 % 
+Astro                    2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.06 % 
 ```
 
 
@@ -231,7 +237,7 @@ Composer                 0 lines             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/cardene777/cardene777/main/assets/bar_graph.png)
 
 
- Last Updated on 05/09/2026 02:49:58 UTC
+ Last Updated on 09/09/2026 02:54:25 UTC
 <!--END_SECTION:waka-->
 
 <br />
