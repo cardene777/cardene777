@@ -147,8 +147,6 @@ blog     → <a href="https://chaldene.net">chaldene.net</a>
 
 > 📦 5.4 MB Used in GitHub's Storage 
  > 
-> 🏆 0 Contributions in the Year 2026
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 76 Public Repositories 
@@ -197,8 +195,14 @@ No Activity Tracked This Week
 No AI Coding Activity Tracked This Week
 ```
 
-```text
+**I Mostly Code in TypeScript** 
 
+```text
+TypeScript               38 repos            ████████████░░░░░░░░░░░░░   48.72 % 
+Python                   8 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.26 % 
+JavaScript               6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
+Solidity                 2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
+MDX                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
 ```
 
 
@@ -208,7 +212,7 @@ No AI Coding Activity Tracked This Week
 ![Lines of Code chart](https://raw.githubusercontent.com/cardene777/cardene777/main/assets/bar_graph.png)
 
 
- Last Updated on 04/10/2026 10:06:48 UTC
+ Last Updated on 04/10/2026 10:08:02 UTC
 <!--END_SECTION:waka-->
 
 <br />
