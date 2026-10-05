@@ -147,8 +147,6 @@ blog     → <a href="https://chaldene.net">chaldene.net</a>
 
 > 📦 5.4 MB Used in GitHub's Storage 
  > 
-> 🏆 57,192 Contributions in the Year 2026
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 76 Public Repositories 
@@ -158,21 +156,21 @@ blog     → <a href="https://chaldene.net">chaldene.net</a>
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-🌆 Daytime                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-🌃 Evening                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+🌞 Morning                74531 commits       ████████░░░░░░░░░░░░░░░░░   30.93 % 
+🌆 Daytime                83560 commits       █████████░░░░░░░░░░░░░░░░   34.67 % 
+🌃 Evening                71556 commits       ███████░░░░░░░░░░░░░░░░░░   29.69 % 
+🌙 Night                  11348 commits       █░░░░░░░░░░░░░░░░░░░░░░░░   04.71 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Tuesday                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Wednesday                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Thursday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Friday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Saturday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Sunday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Monday                   45974 commits       █████░░░░░░░░░░░░░░░░░░░░   19.08 % 
+Tuesday                  29210 commits       ███░░░░░░░░░░░░░░░░░░░░░░   12.12 % 
+Wednesday                24083 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   09.99 % 
+Thursday                 31082 commits       ███░░░░░░░░░░░░░░░░░░░░░░   12.90 % 
+Friday                   38603 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.02 % 
+Saturday                 32560 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.51 % 
+Sunday                   39483 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.38 % 
 ```
 
 
@@ -197,8 +195,14 @@ No Activity Tracked This Week
 No AI Coding Activity Tracked This Week
 ```
 
-```text
+**I Mostly Code in TypeScript** 
 
+```text
+TypeScript               52 repos            █████████████░░░░░░░░░░░░   50.49 % 
+Python                   8 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.77 % 
+JavaScript               8 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.77 % 
+Shell                    6 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.83 % 
+Astro                    2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.94 % 
 ```
 
 
@@ -208,7 +212,7 @@ No AI Coding Activity Tracked This Week
 ![Lines of Code chart](https://raw.githubusercontent.com/cardene777/cardene777/main/assets/bar_graph.png)
 
 
- Last Updated on 05/10/2026 01:20:28 UTC
+ Last Updated on 05/10/2026 02:20:31 UTC
 <!--END_SECTION:waka-->
 
 <br />
