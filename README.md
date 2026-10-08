@@ -195,14 +195,8 @@ No Activity Tracked This Week
 No AI Coding Activity Tracked This Week
 ```
 
-**I Mostly Code in TypeScript** 
-
 ```text
-TypeScript               39 repos            ████████████░░░░░░░░░░░░░   48.15 % 
-Python                   8 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.88 % 
-JavaScript               6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.41 % 
-Solidity                 2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.47 % 
-MDX                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.23 % 
+
 ```
 
 
@@ -212,7 +206,7 @@ MDX                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/cardene777/cardene777/main/assets/bar_graph.png)
 
 
- Last Updated on 08/10/2026 06:36:20 UTC
+ Last Updated on 08/10/2026 06:37:21 UTC
 <!--END_SECTION:waka-->
 
 <br />
