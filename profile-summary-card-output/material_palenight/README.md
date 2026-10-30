@@ -15,10 +15,30 @@
 ### Each card usage
 ---
 
+![](./0-profile-details.svg)
+
+```
+![](https://raw.githubusercontent.com/cardene777/cardene777/main/profile-summary-card-output/material_palenight/0-profile-details.svg)
+```
+
+    
+
+---
+
 ![](./1-repos-per-language.svg)
 
 ```
 ![](https://raw.githubusercontent.com/cardene777/cardene777/main/profile-summary-card-output/material_palenight/1-repos-per-language.svg)
+```
+
+    
+
+---
+
+![](./3-stats.svg)
+
+```
+![](https://raw.githubusercontent.com/cardene777/cardene777/main/profile-summary-card-output/material_palenight/3-stats.svg)
 ```
 
     
